@@ -7,21 +7,21 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Tyler Wood"
+title                    : "Dustin Yost"
 title_separator          : "-"
-name                     : "Tyler Wood"
-description              : "A game programmer soon to be graduating from Champlain College that has an intense passion for UI and AI."
-url                      : "https://tyskwo.com"
+name                     : "Dustin Yost"
+description              : "TODO description _config.yml"
+url                      : "https://temportalflux.github.io"
 baseurl                  : ""
-repository               : "tyskwo/tyskwo.github.io"
+repository               : "temportalflux/temportalflux.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 
 
 # Social Sharing
 twitter:
-  username               : "tyskwo"
+  username               : "temportalflux"
 github:
-  username               : "tyskwo"
+  username               : "temportalflux"
 og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -29,9 +29,8 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links:
-    - "https://twitter.com/tyskwo"
-    - "https://github.com/tyskwo"
-    - "https://www.linkedin.com/in/tyskwo"
+    - "https://github.com/temportalflux"
+    - "https://www.linkedin.com/in/dustin-yost"
 
 # Analytics
 analytics:
@@ -42,11 +41,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tyler Wood"
+  name             : "Dustin Yost"
   avatar           : "/assets/images/bio-photo3.png"
-  bio              : "A game programmer soon to be graduating from Champlain College."
+  bio              : "TODO nio _config.yml"
   location         : "Burlington VT"
-  email            : "me@tyskwo.com"
+  email            : "dustin.yost.t@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -54,18 +53,18 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tyskwo"
+  github           : "temportalflux"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "tyskwo"
+  linkedin         : "dustin-yost"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          : "tyskwo"
+  twitter          :
   vine             :
   weibo            :
   xing             :
