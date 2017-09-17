@@ -13,7 +13,7 @@ portfolio: "true"
 
 sidebar:
   - title: "Description"
-    text: "A driving game which frames the player as an apocalypse survivor on the run from invading aliens. The player uses a Wiimote based gun and a steering wheel to drive themselves away from danger."
+    text: "A turn-based strategy demo that pits two space-stranded pirate crews against each other."
   - title: "Timeframe"
     text: "January 2017 (3 weeks)"
   - title: "Team"
@@ -31,4 +31,4 @@ sidebar:
     link: https://github.com/temportalflux/temportalflux.github.io/releases/download/download-space_pirates_in_space-repository/repository.zip
 ---
 
-_Space Pirates In Space_ is a mobile turn based strategy game where both players are trying to take down the enemy’s crew or kill the enemy’s Captain with your highly effective highly intoxicated (whether it be intoxicated on life or rum) crew. The crisp, light-hearted, simplistic design of the characters and board makes it so the player can focus on the strategy and placement of the units. This also makes it easy for any device to run our game.
+_Space Pirates In Space_ is a mobile turn based strategy game where both players are trying to take down the enemy’s crew or kill the enemy’s Captain with your highly effective highly intoxicated (whether it be intoxicated on life or rum) crew. The crisp, light-hearted, simplistic design of the characters and board makes it so the player can focus on the strategy and placement of the units.
