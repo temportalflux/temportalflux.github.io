@@ -1,41 +1,41 @@
 
 html {
-	background-color: #181818;
+	background-color: #212121;
 }
 
 .greedy-nav {
-	background: #0D0D0D;
+	background: #484848;
 }
 
 .masthead {
-	border-bottom-color: #222;
+	border-bottom-color: #212121;
 }
 
 .page__footer {
-	background-color: #222;
+	background-color: #212121;
 }
 
 .author__urls {
-	border-color: #0D0D0D;
-	background: #0D0D0D;
+	border-color: #797979;
+	background: #484848;
 }
 
 .btn--inverse {
-	background-color: #111;
+	background-color: #D0DFEE;
 }
 
 .btn:hover {
-	background-color: #f2f2f2;
+	background-color: #0052A5;
 }
 
 .btn--inverse:hover {
-	background-color: #111;
+	background-color: #0052A5;
 }
 
 .social-icons .fa {
-	color: #fff;
+	color: #D0DFEE;
 }
 
 body {
-	color: #cccccc;
+	color: #797979;
 }
