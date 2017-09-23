@@ -1,5 +1,7 @@
 ---
 title: "Bug Hunt"
+order: 2
+date: 2017-03-15
 excerpt: ""
 
 header:
