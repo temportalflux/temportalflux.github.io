@@ -4,7 +4,7 @@ html {
 }
 
 .greedy-nav {
-	background: #484848;
+	background: #232323;
 }
 
 .masthead {
@@ -16,8 +16,8 @@ html {
 }
 
 .author__urls {
-	border-color: #797979;
-	background: #232323;
+	border-color: #484848;
+	background: #797979;
 }
 
 .btn--inverse {
