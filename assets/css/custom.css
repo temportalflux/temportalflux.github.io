@@ -17,7 +17,7 @@ html {
 
 .author__urls {
 	border-color: #797979;
-	background: #484848;
+	background: #212121;
 }
 
 .btn--inverse {
@@ -29,7 +29,7 @@ html {
 }
 
 .btn--inverse:hover {
-	background-color: #0052A5;
+	background-color: #D0DFEE;
 }
 
 .social-icons .fa {
@@ -37,5 +37,5 @@ html {
 }
 
 body {
-	color: #797979;
+	color: #212121;
 }
