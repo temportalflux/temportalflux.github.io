@@ -2,6 +2,9 @@
 plugins:
   - octopress-paginate
 
+whitelist:
+  - octopress-paginate
+
 # Site Settings
 locale: "en"
 name: Dustin Yost
