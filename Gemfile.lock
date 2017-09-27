@@ -105,6 +105,8 @@ GEM
     jekyll-optional-front-matter (0.2.0)
       jekyll (~> 3.0)
     jekyll-paginate (1.1.0)
+    jekyll-paginate-v2 (1.8.1)
+      jekyll (~> 3.0)
     jekyll-readme-index (0.1.0)
       jekyll (~> 3.0)
     jekyll-redirect-from (0.12.1)
@@ -183,10 +185,6 @@ GEM
       mini_portile2 (~> 2.2.0)
     octokit (4.7.0)
       sawyer (~> 0.8.0, >= 0.5.3)
-    octopress-hooks (2.6.2)
-      jekyll (>= 2.0)
-    octopress-paginate (1.2.0)
-      octopress-hooks
     pathutil (0.14.0)
       forwardable-extended (~> 2.6)
     public_suffix (2.0.5)
@@ -217,7 +215,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  octopress-paginate
+  jekyll-paginate-v2
 
 BUNDLED WITH
    1.15.4
