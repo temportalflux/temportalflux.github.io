@@ -20,4 +20,8 @@ Pages: {{ paginator.total_pages }}
 	{% include archive-single.html %}
 {% endfor %}
 
+{% for post in site.posts %}
+	{{ post.title }}
+{% endfor %}
+
 <!--{ % include paginator.html %} -->
