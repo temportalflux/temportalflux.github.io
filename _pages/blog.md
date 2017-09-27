@@ -6,6 +6,12 @@ paginate: true
 title: Blog
 ---
 
+{% if paginator %}
+	Found Paginator
+{% else %}
+	No Paginator
+{% endif %}
+
 Posts: {{ paginator.total_posts }}
 Pages: {{ paginator.total_pages }}
 
