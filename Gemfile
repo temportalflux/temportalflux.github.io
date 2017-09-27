@@ -2,5 +2,5 @@ source 'https://rubygems.org'
 
 gem 'github-pages'
 group :jekyll_plugins do
-	gem 'octopress-paginate'
+	gem 'jekyll-paginate-v2'
 end

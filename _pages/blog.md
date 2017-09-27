@@ -1,9 +1,10 @@
 ---
 layout: archive
+title: Blog
 author_profile: true
 permalink: /blog/
-paginate: true
-title: Blog
+pagination: 
+  enabled: true
 ---
 
 {% if paginator %}
@@ -19,4 +20,4 @@ Pages: {{ paginator.total_pages }}
 	{% include archive-single.html %}
 {% endfor %}
 
-{% include paginator.html %}
+<!--{ % include paginator.html %} -->
