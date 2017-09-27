@@ -57,7 +57,7 @@ author:
   youtube          :
 
 markdown: kramdown
-permalink: /:year/:month/:title
+permalink: /posts/:year/:month/:day/:title
 timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
