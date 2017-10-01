@@ -1,0 +1,15 @@
+
+.img-desc-container {
+    height:auto;
+    padding:1%;
+    float:left;
+}
+
+.img-desc-left {
+    margin-left: 2%;
+    float: left;
+}
+
+.img-desc-right {
+    float: right;
+}

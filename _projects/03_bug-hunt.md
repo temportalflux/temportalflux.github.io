@@ -5,7 +5,7 @@ date: 2017-03-15
 excerpt: ""
 
 header:
-  image: /assets/projects/bug-hunt/images/menu.png
+  image: /assets/projects/bug-hunt/images/background.png
   teaser: /assets/projects/bug-hunt/images/menu.png
 
 layout: home
@@ -23,7 +23,7 @@ sidebar:
   - title: "Contribution"
     text: "Lead Programmer"
   - title: "Outcomes"
-    text: "Unity. Collaboration with a large team."
+    text: "Unity. Collaboration with a large team. Git branch management. Modular script design."
   - title: "Links"
   - button: Executable
     icon: download

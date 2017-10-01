@@ -5,8 +5,8 @@ date: 2017-01-10
 excerpt: ""
 
 header:
-  image: /assets/projects/space-pirates-in-space/images/background.png
-  teaser: /assets/projects/space-pirates-in-space/images/background.png
+  image: /assets/projects/space-pirates-in-space/images/teaser.png
+  teaser: /assets/projects/space-pirates-in-space/images/teaser.png
 
 layout: home
 language: "C#"
@@ -23,7 +23,7 @@ sidebar:
   - title: "Contribution"
     text: "Programmer"
   - title: "Outcomes"
-    text: "Unity."
+    text: "Unity. Working in a small team. Pipeline exploration. Turn-based strategy flow structure."
   - title: "Links"
   - button: Executable
     icon: download
