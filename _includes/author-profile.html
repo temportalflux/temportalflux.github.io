@@ -30,7 +30,13 @@
     <ul class="author__urls social-icons">
       {% if author.location %}
         <li itemprop="homeLocation" itemscope itemtype="http://schema.org/Place">
-          <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> <span itemprop="name">{{ author.location }}</span>
+          {% if author.locationLink %}
+          <a href="{{ author.locationLink }}">
+          {% endif %}
+            <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> <span itemprop="name">{{ author.location }}</span>
+          {% if author.locationLink %}
+          </a>
+          {% endif %}
         </li>
       {% endif %}
 

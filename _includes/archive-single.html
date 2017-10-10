@@ -11,6 +11,17 @@
 {% endif %}
 
 <div class="{{ include.type | default: "list" }}__item">
+  
+  {% if include.type != "grid" and teaser %}
+  <img src=
+    {% if teaser contains "://" %}
+      "{{ teaser }}"
+    {% else %}
+      "{{ teaser | absolute_url }}"
+    {% endif %}
+    class='iconDetails' align="left" style="width: 10%;">
+  {% endif %}
+
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">

@@ -38,3 +38,5 @@ _Dreamtime_, also called The Dreaming, introduces the player to a vital concept 
 
 
 ![screenshot_1]({{ site.url }}{{ site.baseurl }}/assets/projects/dreamtime/images/screenshot_1.png){: .align-center}
+
+<iframe src="{{ site.url }}{{ site.baseurl }}/assets/projects/dreamtime/demo/index.html" style="border:0px #000000 none;" name="Game name" scrolling="no" frameborder="1" marginheight="px" marginwidth="320px" width="960px" height="600px"></iframe>
