@@ -31,6 +31,7 @@ author:
   avatar           : "/assets/images/bio-photo.png"
   bio              : "An explorer of digital time and space"
   location         : "Burlington, VT"
+  locationLink     : "https://www.google.com/maps/place/Burlington,+VT/"
   email            : "dustin.yost.t@gmail.com"
   uri              :
   bitbucket        :
