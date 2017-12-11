@@ -9,6 +9,19 @@ header:
 
 description: A demo on Coordated Movement and Formations in Unity.
 
+layout: home
+language: "C#"
+year: "2017"
+
+sidebar:
+  - title: "Links"
+  - button: Executable
+    icon: download
+    link: https://github.com/temportalflux/temportalflux.github.io/releases/download/download-coordinated-movement-executable/Coordinated.Movement.zip
+  - button: Repository
+    icon: download
+    link: https://github.com/temportalflux/temportalflux.github.io/releases/download/download-coordinated-movement-repository/CoordinatedMovement.zip
+
 ---
 
 <h2>Interactable Demo</h2>
