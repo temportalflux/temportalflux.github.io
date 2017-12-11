@@ -2,16 +2,13 @@
 layout: post
 title: "Coordinated Movement"
 date: 2017-12-11
-categories: Artificial Intelligence, Unity
-
-header:
-  teaser: /assets/posts/2017-12-11-coordinated-movement/circle.png
-
-description: A demo on Coordated Movement and Formations in Unity.
-
-layout: home
 language: "C#"
 year: "2017"
+categories: Artificial Intelligence, Unity
+
+description: A demo on Coordated Movement and Formations in Unity.
+header:
+  teaser: /assets/posts/2017-12-11-coordinated-movement/circle.png
 
 sidebar:
   - title: "Links"
