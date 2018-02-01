@@ -37,7 +37,7 @@ The day following the presentation, the team got together to look at our mechani
 
 So we took to it. We prioritized by looking at what systems affected other features. Things like multiplayer support affect the entire structure of the game, and thus are super critical to start as soon as possible. Getting started on customizing ships (at least aestetically) was something the artists felt was also critical, and so the systems to support that also need to be in ASAP. And in turn with iterative development, all the features currently in need to be looked at and improved upon if necessary. So updating ship movement with a 3rd person perspective, updating shooting to work well with customizable ships, and making sure loot tables are there for designer usage all need to be priorites as well.
 
-<img src='/assets/posts/2018-01-31-skyrates-a-beginning/priorites.png' class='iconDetails' style="width:50%;" align="right">
+<img src='/assets/posts/2018-01-31-skyrates-a-beginning/priorities.jpg' class='iconDetails' style="width:50%;" align="right">
 
 So that's my task this week. Draft up some new systems, and create tools for the designer to be able to use these effectively, as well as do some research and get the infastructure for multiplayer development in. I've got some, what I believe, to be really neat ideas, but those are for another post. In the mean time, enjoy this amazing artwork our artists have created. The project is on a private campus server, but I'll be posting source fragments as applicable.
 
