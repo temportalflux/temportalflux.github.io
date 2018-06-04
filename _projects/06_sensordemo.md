@@ -1,6 +1,6 @@
 ---
 title: "Sensor Expo Demo"
-order: 5
+order: 4
 date: 2017-07-15
 excerpt: "A demonstration of using wireless sensors in Unity"
 
