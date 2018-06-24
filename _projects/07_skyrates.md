@@ -1,6 +1,6 @@
 ---
 title: "Skyrates"
-order: 6
+order: 8
 date: 2018-05-23
 excerpt: ""
 
@@ -45,3 +45,9 @@ _Skyrates_ is a vertical slice of a third person action-based, high flying adven
 <!-- gif of upgrades -->
 
 <!--![screenshot_1]({{ site.url }}{{ site.baseurl }}/assets/projects/dreamtime/images/screenshot_1.png){: .align-center}-->
+
+Skyrates is a third person action-based, high flying adventure and exploration game where you assume control of a crew of steampunk sky pirates, shoot down merchants, collect their loot to upgrade your ship, run from the Royal Navy, and conquer the fort in order to become the most fearsome pirate captain in the skies
+
+
+
+

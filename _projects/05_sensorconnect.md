@@ -1,6 +1,6 @@
 ---
 title: "SensorConnect"
-order: 4
+order: 6
 date: 2017-05-21
 excerpt: ""
 
