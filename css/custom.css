@@ -1,0 +1,41 @@
+
+html {
+	background-color: #1b1c1d;
+}
+
+.greedy-nav {
+	background: #232323;
+}
+
+.masthead {
+	border-bottom-color: #232323;
+}
+
+.page__footer {
+	background-color: #232323;
+}
+
+.author__urls {
+	border-color: #0069DB;
+	background: #232323;
+}
+
+.btn--inverse {
+	background-color: #0069DB;
+}
+
+.btn:hover {
+	background-color: #0069DB;
+}
+
+.btn--inverse:hover {
+	background-color: #0069DB;
+}
+
+.social-icons .fa {
+	color: #5C9FE8;
+}
+
+body {
+	background: #1b1c1d;
+}
