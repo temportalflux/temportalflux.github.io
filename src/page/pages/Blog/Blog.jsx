@@ -1,5 +1,5 @@
 import React from 'react';
-import {Header, Pagination, Segment} from "semantic-ui-react";
+import {Header, Pagination} from "semantic-ui-react";
 import {Page} from "../../Page";
 import POSTS from "../../../posts";
 import moment from "moment";

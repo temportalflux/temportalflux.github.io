@@ -11,10 +11,10 @@ import {Post} from "./pages/Blog/Post";
 Page.Main = Main;
 Page.About = About;
 Page.Projects = Projects;
+Page.Project = Project;
 Page.Blog = Blog;
+Page.Post = Post;
 Page.Resume = Resume;
 Page.Reel = Reel;
-Page.Project = Project;
-Page.Post = Post;
 
 export default Page;

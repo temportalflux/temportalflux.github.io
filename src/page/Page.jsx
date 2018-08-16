@@ -78,12 +78,14 @@ export class Page extends React.Component {
                     </Segment>
                 </Grid.Column>
 
-                <Grid.Column stretched width={12}>
+                <Grid.Column width={12}>
+
                     <HeaderBar/>
                     <Container fluid>
                         {this.props.children}
                     </Container>
                     <FooterBar/>
+
                 </Grid.Column>
 
             </Grid>
