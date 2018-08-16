@@ -3,7 +3,7 @@
 This demo has 2 layers of formations: main formation is scalable circle, and subformation is finger-four. Input defined in demo.
 
 <center>
-<iframe src="{{ site.url }}{{ site.baseurl }}/posts/2017-12-11-coordinated-movement/demo/index.html" style="border:0px #000000 none;" name="Coordinated Movement" scrolling="no" frameborder="1" marginheight="px" marginwidth="320px" height="450px" width="960px"></iframe>
+<iframe src="/posts/2017-12-11-coordinated-movement/demo/index.html" style="border:0px #000000 none;" name="Coordinated Movement" scrolling="no" frameborder="1" marginheight="px" marginwidth="320px" height="450px" width="960px"></iframe>
 </center>
 
 <h2>Intro</h2>
@@ -72,7 +72,7 @@ As described in the Millington text, two-tiered hagiarchies systems help to sepa
 
 <center>
 <video style="width:100%;" controls muted>
-  <source src="{{ site.url }}{{ site.baseurl }}/posts/2017-12-11-coordinated-movement/demoShort.mp4" type="video/mp4">
+  <source src="/posts/2017-12-11-coordinated-movement/demoShort.mp4" type="video/mp4">
 </video>
 </center>
 
