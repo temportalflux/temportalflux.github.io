@@ -1,13 +1,5 @@
 const POSTS = [
     {
-        title: 'Disrupting Summer at Disruptor Beam',
-        date: '2018-08-16',
-        description: 'Looking back at my time at Disruptor Beam',
-        categories: [ 'Internship', 'Unity', 'LiveOps' ],
-        markdown: '2018-08-16-disruptor-beam',
-        teaser: '/posts/2018-08-16-disruptor-beam/1024x1024_Enterprise-D-Stars.png',
-    },
-    {
         title: "Skyrates: A Beginning",
         date: '2018-01-31',
         language: "C#",
