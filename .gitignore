@@ -1,3 +1,4 @@
 _site/
 *.lock
 .idea/
+node_modules/*.*

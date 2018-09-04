@@ -1,5 +1,14 @@
 const POSTS = [
     {
+        title: "Ouroboros Creations: Finding your head",
+        date: '2018-09-03',
+        language: 'n/a',
+        categories: ['Unity', 'Ouroboros Creations', 'Capstone'],
+        description: 'Capstone begins: Planning, Concepting, and Prototyping',
+        teaser: 'https://i.gyazo.com/013c017518fbe8d1ab766e0205961235.png',
+        markdown: '2018-09-03-ouroboros-finding-your-head',
+    },
+    {
         title: "Skyrates: A Beginning",
         date: '2018-01-31',
         language: "C#",
