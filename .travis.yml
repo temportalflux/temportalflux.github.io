@@ -32,4 +32,6 @@ jobs:
   - stage: deploy
     name: "Deploy to gh-pages"
     script:
+    - npm run build
+    - cp ./CNAME ./build/CNAME
     - npm run deploy

@@ -6,7 +6,6 @@
   "scripts": {
     "build": "react-scripts build",
     "start": "react-scripts start",
-    "predeploy": "npm run build",
     "deploy": "gh-pages-with-token -d build --branch master"
   },
   "dependencies": {
