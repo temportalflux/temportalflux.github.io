@@ -2,7 +2,7 @@
   "name": "temportalflux-site",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://github.com/temportalflux.github.io",
+  "homepage": "http://dustinyost.com",
   "scripts": {
     "build": "react-scripts build",
     "start": "react-scripts start",
