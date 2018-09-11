@@ -58,3 +58,8 @@ The year is going to be an exciting time. Many Quality Assurance lie ahead, not 
 (for my independent study). We are tasked with making these blog posts every week, which will be good to get into the
 habit of! So you can expect a blog post around this time next week as well. Teaser: it will be related to
 concept feedback, the systems and mechanics of a prototype, and possible plans for a Games-User-Research tool set.
+
+## Weekly Team Posts
+
+Conor Tully | [Chapter 1 - The Head of the Snake](https://www.conortully.com/blog/chapter-1-the-head-of-the-snake)
+
