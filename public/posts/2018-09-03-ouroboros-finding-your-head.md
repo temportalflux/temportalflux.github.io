@@ -61,5 +61,7 @@ concept feedback, the systems and mechanics of a prototype, and possible plans f
 
 ## Weekly Team Posts
 
-Conor Tully | [Chapter 1 - The Head of the Snake](https://www.conortully.com/blog/chapter-1-the-head-of-the-snake)
+Producer: Cody Douglas | []()
+Artist: Ellie Peak | []()
+Designer: Conor Tully | [Chapter 1 - The Head of the Snake](https://www.conortully.com/blog/chapter-1-the-head-of-the-snake)
 

@@ -1,5 +1,14 @@
 const POSTS = [
     {
+        title: "Eating Prototypes for Breakfast",
+        date: '2018-09-12',
+        language: 'C++',
+        categories: ['Unreal Engine', 'Ouroboros Creations', 'Capstone'],
+        description: 'Rapid Prototyping and Concept Development',
+        teaser: 'https://i.gyazo.com/013c017518fbe8d1ab766e0205961235.png',
+        markdown: '2018-09-12-ouroboros-prototypes',
+    },
+    {
         title: "Ouroboros Creations: Finding your head",
         date: '2018-09-03',
         language: 'n/a',
