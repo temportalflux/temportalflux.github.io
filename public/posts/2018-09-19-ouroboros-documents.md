@@ -61,4 +61,4 @@ Producer: Cody Douglas | []()
 
 Artist: Ellie Peak | []()
 
-Designer: Conor Tully | []()
+Designer: Conor Tully | [Documents are Pretty Unreal](https://www.conortully.com/blog/chapter-3-documents-are-pretty-unreal)
