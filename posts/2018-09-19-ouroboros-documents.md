@@ -37,9 +37,7 @@ That said, the transition from Unity to Unreal has been a time and a half! Take 
 	<source src="/posts/2018-09-12-ouroboros-prototypes/chaos_coven.mp4" type="video/mp4"/>
 </video>
 
-<video style="width:50%; float: right; padding: 5pt;" controls>
-	<source src="/posts/2018-09-12-ouroboros-prototypes/chaos_coven.mp4" type="video/mp4"/>
-</video>
+<iframe style="width:50%; float: right; padding: 5pt;" width="560" height="315" src="https://www.youtube.com/embed/qbZAe5YAs98?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Unreal looks so much better, right?! It's definitely <i>not</i> because Unreal Engine 4 is already setup to support third-person games. Not at all.
 
@@ -57,8 +55,6 @@ Tangentially related to Capstone is my independent study in Games User Research.
 
 # Weekly Team Posts
 
-Producer: Cody Douglas | []()
-
-Artist: Ellie Peak | []()
+Artist: Ellie Peak | [Artstation](https://www.artstation.com/artwork/l3K9G)
 
 Designer: Conor Tully | [Documents are Pretty Unreal](https://www.conortully.com/blog/chapter-3-documents-are-pretty-unreal)

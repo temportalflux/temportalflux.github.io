@@ -23,4 +23,6 @@ As per last week, and all following weeks, you can find my team's posts in the s
 
 # Weekly Team Posts
 
+Artist: Ellie Peak | [Artstation](https://www.artstation.com/artwork/q89lR)
+
 Designer: Conor Tully | [Into the Kiln](https://www.conortully.com/blog/chapter-2-into-the-kiln)
