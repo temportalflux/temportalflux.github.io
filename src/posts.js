@@ -1,9 +1,18 @@
 const POSTS = [
     {
+        title: "Systems & QA",
+        date: '2018-09-25',
+        language: 'C++',
+        categories: ['Unreal Engine', 'Ouroboros Creations', 'Capstone', 'QA-Recorder', 'GUR', 'GUR: Timelines'],
+        description: 'Integrating new systems and QA fun',
+        teaser: 'https://i.gyazo.com/013c017518fbe8d1ab766e0205961235.png',
+        markdown: '2018-09-25-ouroboros-qa',
+    },
+    {
         title: "Documents Galore",
         date: '2018-09-19',
         language: 'C++',
-        categories: ['Unreal Engine', 'Ouroboros Creations', 'Capstone', 'QA-Recorder', 'GUR', 'GUR: Timelines'],
+        categories: ['Unreal Engine', 'Ouroboros Creations', 'Capstone', 'QA-Recorder', 'GUR', 'YOGURT'],
         description: '',
         teaser: 'https://i.gyazo.com/013c017518fbe8d1ab766e0205961235.png',
         markdown: '2018-09-19-ouroboros-documents',

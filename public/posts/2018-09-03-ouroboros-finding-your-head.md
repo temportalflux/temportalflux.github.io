@@ -61,5 +61,7 @@ concept feedback, the systems and mechanics of a prototype, and possible plans f
 
 # Weekly Team Posts
 
+Artist: Ellie Peak | [Artstation](https://www.artstation.com/artwork/q89lR)
+
 Designer: Conor Tully | [Chapter 1 - The Head of the Snake](https://www.conortully.com/blog/chapter-1-the-head-of-the-snake)
 
