@@ -21,4 +21,4 @@ Overall, this week has been very independent for the team. We have all been in o
 
 Artist: Ellie Peak | [Artstation](https://www.artstation.com/artwork/z2aL6)
 
-Designer: Conor Tully | []()
+Designer: Conor Tully | [Technical Time](https://www.conortully.com/blog/chapter-4-technical-time)
