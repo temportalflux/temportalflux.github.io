@@ -1,9 +1,18 @@
 const POSTS = [
     {
+        title: "Tool Time",
+        date: '2018-10-04',
+        language: 'C++',
+        categories: ['Unreal Engine', 'Ouroboros Creations', 'Capstone', 'QA-Recorder', 'GUR', 'Yogurt'],
+        description: 'A full run down of the QARecorder, Gameplay Ability System, and plans for an Unreal Engine tool',
+        teaser: 'https://i.gyazo.com/013c017518fbe8d1ab766e0205961235.png',
+        markdown: '2018-10-04-ouroboros-tools',
+    },
+    {
         title: "Systems & QA",
         date: '2018-09-25',
         language: 'C++',
-        categories: ['Unreal Engine', 'Ouroboros Creations', 'Capstone', 'QA-Recorder', 'GUR', 'GUR: Timelines'],
+        categories: ['Unreal Engine', 'Ouroboros Creations', 'Capstone', 'QA-Recorder', 'GUR', 'Yogurt'],
         description: 'Integrating new systems and QA fun',
         teaser: 'https://i.gyazo.com/013c017518fbe8d1ab766e0205961235.png',
         markdown: '2018-09-25-ouroboros-qa',
