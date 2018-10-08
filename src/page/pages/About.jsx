@@ -31,7 +31,7 @@ export class About extends React.Component {
                 </p>
 
                 <p>
-                    My favorite subfield of game programming is <Keyword>Gameplay Programming</Keyword>.
+                    My favorite specialization of game programming is <Keyword>Gameplay Programming</Keyword>.
                     I love being able to craft experiences with other disciplines which directly affect the player's experience.
                     By the same token, I also enjoy working on <Keyword>Artificial Intelligence</Keyword> and tools in games.
                     To me, AI is being able to bring tangible life to the concepts that sit in the minds of developers.
