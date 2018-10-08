@@ -32,30 +32,10 @@ export class Resume extends React.Component {
                     <Header as={'h2'} content={'Technical Skills'}/>
                     <List bulleted>
                         <List.Item><i>Languages</i>: C++, C# (.NET), Python, Java, Bash Shell, C</List.Item>
-                        <List.Item><i>Libraries</i>: OpenGL, HLSL/Shaders, DirectX, ActionScript, Chromium Embedded
-                            Framework</List.Item>
-                        <List.Item><i>Web</i>: React, JavaScript, PHP, HTML, Twig/Jekyll/Liquid, CSS, AJAX</List.Item>
-                        <List.Item><i>IDE</i>: Visual Studio, Unity, Unreal Editor 4, Flash/Flash Developer</List.Item>
-                        <List.Item><i>Design</i>: Adobe Photoshop, Adobe Illustrator, Adobe Flash</List.Item>
-                    </List>
-                </Segment>
-
-                <Segment>
-                    <Header as={'h2'} content={'Education'}/>
-                    <p style={{float: 'left'}}><i>Champlain College</i>, Burlington, VT</p>
-                    <p style={{float: 'right'}}>May 2019</p>
-                    <p>Bachelor of Science in Game Programming</p>
-                    <p>Minor in Mathematics</p>
-                </Segment>
-
-                <Segment>
-                    <Header as={'h2'} content={'Awards'}/>
-                    <List bulleted>
-                        <List.Item><i>President's List</i>: Fall 2017</List.Item>
-                        <List.Item><i>Dean's List</i>: Fall 2015, Spring 2016, Fall 2016, Spring 2017, Spring
-                            2018</List.Item>
-                        <List.Item><i>2017 George Bradford Excellence Award</i> for demonstrated excellence in
-                            citizenship and academics</List.Item>
+                        <List.Item><i>Libraries</i>: OpenGL, HLSL/Shaders, DirectX, ActionScript, Chromium Embedded Framework</List.Item>
+                        <List.Item><i>Web</i>: ReactJS, JavaScript, HTML, Twig/Jekyll/Liquid, CSS, AJAX, PHP</List.Item>
+                        <List.Item><i>IDE</i>: Visual Studio, Unity, Unreal Editor 4, Flash</List.Item>
+                        <List.Item><i>Version Control</i>: Git, Subversion, Perforce</List.Item>
                     </List>
                 </Segment>
 
@@ -63,7 +43,7 @@ export class Resume extends React.Component {
                     <Header as={'h2'} content={'Experience'}/>
 
                     {Resume.toWorkExperience(
-                        'Resident Assistant', 'Champlain College (Burlington, VT)', 'August 2016 - May 2018', [
+                        'Resident Assistant', 'Champlain College (Burlington, VT)', 'August 2016 - May 2019', [
                             'Developed a safe and inclusive community within residence halls',
                             'Helped residents with issues regarding roommates or room placement',
                             'Worked with residents to understand Champlain policies and deal with everyday life issues',
@@ -72,7 +52,9 @@ export class Resume extends React.Component {
 
                     {Resume.toWorkExperience(
                         'Game Engineer Internship', 'Disruptor Beam (Framingham, MA)', 'May 2018 - August 2018', [
-                            'TODO'
+                            'Fixed gameplay and network related bugs',
+                            'Added new features to the LiveOps mobile game Star Trek: Timelines',
+                            'Developed a standalone tool to help designers create new weekly/monthly content'
                         ])}
 
                     {Resume.toWorkExperience(
@@ -105,6 +87,25 @@ export class Resume extends React.Component {
                             'Managed password databases, multiple servers, and security of confidential client-based information',
                         ])}
 
+                </Segment>
+
+                <Segment>
+                    <Header as={'h2'} content={'Education'}/>
+                    <p style={{float: 'left'}}><i>Champlain College</i>, Burlington, VT</p>
+                    <p style={{float: 'right'}}>May 2019</p>
+                    <p>Bachelor of Science in Game Programming</p>
+                    <p>Minor in Mathematics</p>
+                    <p>Started the Open-Source Software Development (OSD) initiative (2017-2018)</p>
+                </Segment>
+
+                <Segment>
+                    <Header as={'h2'} content={'Awards'}/>
+                    <List bulleted>
+                        <List.Item><i>President's List</i>: Fall 2017</List.Item>
+                        <List.Item><i>Dean's List</i>: Fall 2015, Spring 2016, Fall 2016, Spring 2017, Spring 2018</List.Item>
+                        <List.Item><i>2017 George Bradford Excellence Award</i> for demonstrated excellence in
+                            citizenship and academics</List.Item>
+                    </List>
                 </Segment>
 
             </Page>
