@@ -4,6 +4,7 @@ import {Page} from "../../Page";
 import Markdown from 'react-markdown';
 import {Button, Header, Image, Segment} from "semantic-ui-react";
 import {FaDownload, FaTwitter} from "react-icons/fa/index";
+import {Post} from "../Blog/Post";
 
 export class Project extends React.Component {
 
@@ -23,8 +24,8 @@ export class Project extends React.Component {
     }
 
     async loadMarkdown() {
-        let response = await fetch(`${process.env.PUBLIC_URL}/projects/${this.props.markdown}.md`);
-        let markdown = await response.text();
+        let markdown = await Post.loadMarkdown('raw_projects', this.props.markdown);
+        console.log(markdown);
         this.setState({ markdown: markdown });
     }
 
@@ -36,7 +37,7 @@ export class Project extends React.Component {
                     <Header.Subheader></Header.Subheader>
                 </Header>
 
-                { this.props.header && <Image src={this.props.header} /> }
+                { this.props.header && <Image src={`/raw_projects/${this.props.markdown}${this.props.header}`} /> }
 
                 <Markdown
                     escapeHtml={false}

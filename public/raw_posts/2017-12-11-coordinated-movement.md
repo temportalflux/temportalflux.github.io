@@ -3,12 +3,12 @@
 This demo has 2 layers of formations: main formation is scalable circle, and subformation is finger-four. Input defined in demo.
 
 <center>
-<iframe src="/posts/2017-12-11-coordinated-movement/demo/index.html" style="border:0px #000000 none;" name="Coordinated Movement" scrolling="no" frameborder="1" marginheight="px" marginwidth="320px" height="450px" width="960px"></iframe>
+<iframe src="${PATH_MARKDOWN}/demo/index.html" style="border:0px #000000 none;" name="Coordinated Movement" scrolling="no" frameborder="1" marginheight="px" marginwidth="320px" height="450px" width="960px"></iframe>
 </center>
 
 <h2>Intro</h2>
 
-<img src='/posts/2017-12-11-coordinated-movement/line-actors.png' class='iconDetails' align="right" style="width:50%">
+<img src='${PATH_MARKDOWN}/line-actors.png' class='iconDetails' align="right" style="width:50%">
 
 Coordinated Movement is the directing of actors in a game to coordinate their actions with other actors. This can come about in two ways. Making actions with compliment other actors, and moving in a prescribed group. Moving in ways which compliment or otherwise group actors together creates the backbone for move complex decision making such as tactical decision making. These groups are often called formations, which is movement of actors to retain organization. In my experience, these formations often take geometric patterns, and this is one the of the assumptions I based my work on.
 
@@ -18,7 +18,7 @@ Per Millington’s breakdown, Coordinated Movement and its emergent formations a
 
 <h2>Terminology</h2>
 
-<img src='/posts/2017-12-11-coordinated-movement/circleFingerFour.png' class='iconDetails' style="width:20%;float:right;">
+<img src='${PATH_MARKDOWN}/circleFingerFour.png' class='iconDetails' style="width:20%;float:right;">
 <p>
 For the remainder of this post, there are terms which should be defined.
 <br/>
@@ -28,14 +28,14 @@ For the remainder of this post, there are terms which should be defined.
 <br/>
 
 <span>
-<img src='/posts/2017-12-11-coordinated-movement/controller.png' class='iconDetails' style="width:20%;float:left;">
+<img src='${PATH_MARKDOWN}/controller.png' class='iconDetails' style="width:20%;float:left;">
 <strong>Controller</strong>: Any owner of a formation, which dictates the next location/orientation of its agents
 </span>
 
 <br/>
 
 <span>
-<img src='/posts/2017-12-11-coordinated-movement/actor.png' class='iconDetails' style="width:20%;float:left;">
+<img src='${PATH_MARKDOWN}/actor.png' class='iconDetails' style="width:20%;float:left;">
 <strong>Actor</strong>: Any unit which follows a formation (thus an agent of a controller) and does not have agents of its own
 </span>
 
@@ -53,18 +53,18 @@ Formations are the basis for all coordinated movement. While all formations dict
 
 Fixed Formations are patterns which only permit a certain number of agents to be a part of the formation. In some of the cases provided by the Millington text, there are 4 maximum agents per formation. These kinds of formations are intentional and organized to fit a pattern of a specific size. This makes them easy to be controlled or changed in a 3D environment, as opposed to in scripts.
 
-<img src='/posts/2017-12-11-coordinated-movement/line.png' class='iconDetails' style="width:23%;">
-<img src='/posts/2017-12-11-coordinated-movement/defensiveCircle.png' class='iconDetails' style="width:23%;">
-<img src='/posts/2017-12-11-coordinated-movement/2cover.png' class='iconDetails' style="width:23%;">
-<img src='/posts/2017-12-11-coordinated-movement/fingerFour.png' class='iconDetails' style="width:23%;">
+<img src='${PATH_MARKDOWN}/line.png' class='iconDetails' style="width:23%;">
+<img src='${PATH_MARKDOWN}/defensiveCircle.png' class='iconDetails' style="width:23%;">
+<img src='${PATH_MARKDOWN}/2cover.png' class='iconDetails' style="width:23%;">
+<img src='${PATH_MARKDOWN}/fingerFour.png' class='iconDetails' style="width:23%;">
 
 <h3>Scalable Formations</h3>
 
 Scalable Formations are patterns which are derived from an algorithm and an unknown number of agents. These patterns are often emergent and dynamic, which while being pleasing to view and watch grow, can be harder to define and predict the behavior of.
 
-<img src='/posts/2017-12-11-coordinated-movement/circle4.png' class='iconDetails' style="width:30%;">
-<img src='/posts/2017-12-11-coordinated-movement/circle7.png' class='iconDetails' style="width:30%;">
-<img src='/posts/2017-12-11-coordinated-movement/circle12.png' class='iconDetails' style="width:30%;">
+<img src='${PATH_MARKDOWN}/circle4.png' class='iconDetails' style="width:30%;">
+<img src='${PATH_MARKDOWN}/circle7.png' class='iconDetails' style="width:30%;">
+<img src='${PATH_MARKDOWN}/circle12.png' class='iconDetails' style="width:30%;">
 
 <h2>Implementation</h2>
 
@@ -72,7 +72,7 @@ As described in the Millington text, two-tiered hagiarchies systems help to sepa
 
 <center>
 <video style="width:100%;" controls muted>
-  <source src="/posts/2017-12-11-coordinated-movement/demoShort.mp4" type="video/mp4">
+  <source src="${PATH_MARKDOWN}/demoShort.mp4" type="video/mp4">
 </video>
 </center>
 
@@ -83,19 +83,19 @@ In the video above, there is one main controller and 3-6 sub-controllers (Contro
 In this implementation, I had to make some concessions to Unity as a trade of for features which are outside the scope of this demo.
 
 <center>
-<img src='/posts/2017-12-11-coordinated-movement/navmesh.png' class='iconDetails' style="width:80%;">
+<img src='${PATH_MARKDOWN}/navmesh.png' class='iconDetails' style="width:80%;">
 </center>
 
 To take advantage of Unity’s 3D space movement, I decided to use the pre-built Navigation Mesh system. This meant that each Actor and Controller has its own NavMeshAgent script to navigate the world. This enables each GameObject to operate independently, regardless of whether it is an Agent or not. Because of this independence, the multiple hierarchy system emerged (which is why Controllers can be Agents of other Controllers). Using the Navigation Mesh implementation also made Collision Avoidance possible, to show a more complete and well rounded Coordinated Movement. In having Collision Avoidance (without writing an entire algorithm myself), Actors could be smart about how they go to their targets.
 
 <center>
-<img src='/posts/2017-12-11-coordinated-movement/unitMoveNav.png' class='iconDetails' style="width:50%;">
+<img src='${PATH_MARKDOWN}/unitMoveNav.png' class='iconDetails' style="width:50%;">
 </center>
 
 These came at a cost, however, as I removed the Drift Offset outlined by Millington. The offset restricted the Controller to a set distance from its Agents, but in using NavMeshAgent, stopping or otherwise interrupting the NavMeshAgent’s movement became counterintuitive. This means that in this implementation, Controllers can get ahead of their Agents, meaning the Player must wait for the units to catch up.
 
 <center>
-<img src='/posts/2017-12-11-coordinated-movement/unitStuckNav.png' class='iconDetails' style="width:50%;">
+<img src='${PATH_MARKDOWN}/unitStuckNav.png' class='iconDetails' style="width:50%;">
 </center>
 
 The other concession became short-sighted children. Because the Controllers dictate the target location to their Agents every FixedUpdate, the Agents targets are changed frequently. Not only could this have a detrimental effect on calculation times of paths for agents, but if the target location of an Agent moves through a unreachable area, the unit will stop at the edge until its target is available again. In the picture above, the target passed through the area, and now the Actor is left having to path around the edge of the obstruction, whereas if it had known the target was going to be obstructed, it could have pathed around it in the first place.

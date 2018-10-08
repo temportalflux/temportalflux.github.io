@@ -13,7 +13,7 @@ export class ProjectPreview extends React.Component {
                 as={Link}
                 to={`/projects/${markdown}`}
             >
-                {teaser && <Image src={teaser} />}
+                {teaser && <Image src={`/raw_projects/${markdown}${teaser}`} />}
                 <Header as='h1'>
                     {title}
                     <Header.Subheader>{moment(date).year()} {language}</Header.Subheader>

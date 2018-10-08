@@ -3,14 +3,14 @@ const PROJECTS = [
     {
         title: "Space Pirates in Space",
         date: "2017-01-10",
-        teaser: "/projects/space-pirates-in-space/images/teaser.png",
+        teaser: "/images/teaser.png",
         language: "C#",
         markdown: "01_space-pirates-in-space",
 
         portfolio: true,
         order: 1,
 
-        header: '/projects/space-pirates-in-space/images/teaser.png',
+        header: '/images/teaser.png',
         description: 'A turn-based strategy demo that pits two space-stranded pirate crews against each other.',
         timeframe: 'January 2017 (3 weeks)',
         team: 'Cody Douglas, Conor Tully, Jennifer Carlin',
@@ -22,7 +22,7 @@ const PROJECTS = [
     {
         title: "Dreamtime",
         date: "2017-02-10",
-        teaser: "/projects/dreamtime/images/teaser.png",
+        teaser: "/images/teaser.png",
         language: "C#",
         markdown: "02_dreamtime",
 
@@ -40,7 +40,7 @@ const PROJECTS = [
     {
         title: "Bug Hunt",
         date: "2017-03-15",
-        teaser: "/projects/bug-hunt/images/menu.png",
+        teaser: "/images/menu.png",
         language: "C#",
         markdown: "03_bug-hunt",
 
@@ -67,7 +67,7 @@ const PROJECTS = [
     {
         title: "SensorConnect",
         date: "2017-05-21",
-        teaser: "/projects/sensorconnect/images/teaser.png",
+        teaser: "/images/teaser.png",
         language: "C++, JavaScript",
         markdown: "05_sensorconnect",
 
@@ -83,14 +83,14 @@ const PROJECTS = [
     {
         title: 'Sensor Expo Demo',
         date: "2017-07-15",
-        teaser: '/projects/sensorconnect_demo/images/teaser.png',
+        teaser: '/images/teaser.png',
         language: "Unity, C#",
         markdown: "06_sensordemo",
 
         portfolio: true,
         order: 4,
 
-        header: '/projects/sensorconnect_demo/images/teaser.png',
+        header: '/images/teaser.png',
         description: 'A demonstration of using wireless sensors in Unity',
         timeframe: 'July-August 2017',
         contribution: 'Programming Intern',
@@ -100,7 +100,7 @@ const PROJECTS = [
     {
         title: "Skyrates",
         date: "2018-05-23",
-        teaser: "/projects/skyrates/images/teaser.png",
+        teaser: "/images/teaser.png",
         language: "C#",
         markdown: "07_skyrates",
 

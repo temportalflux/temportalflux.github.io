@@ -1,6 +1,6 @@
 
 <image
-    src="/posts/2018-08-16-disruptor-beam/disruptorbeam_splash_2048.png"
+    src="${PATH_MARKDOWN}/disruptorbeam_splash_2048.png"
     style="width: 25%; float: left;"
 />
 
@@ -31,9 +31,9 @@ Upon starting the fourth week, however, we took a studio wide break from active 
 }
 </style>
 
-A couple of us were inspired by Pokemon Mystery Dungeon, and I had done some work with AI formations via [Coordinated Movement](/posts/2017-12-11-coordinated-movement), so we made a dungeon-esk hack-and-slash.
+A couple of us were inspired by Pokemon Mystery Dungeon, and I had done some work with AI formations via [Coordinated Movement](${PATH_ALL_POSTS}/2017-12-11-coordinated-movement), so we made a dungeon-esk hack-and-slash.
 <image
-    src="/posts/2018-08-16-disruptor-beam/hackathon/pmd.gif"
+    src="${PATH_MARKDOWN}/hackathon/pmd.gif"
     class="zoom"
     style="width: 50%; height: 50%; display: flex; justify-content: center;"
 />
@@ -41,12 +41,12 @@ A couple of us were inspired by Pokemon Mystery Dungeon, and I had done some wor
 Then I did some work on a haggling system with one of our designers;
 <div style="display: flex; justify-content: center;">
     <image
-        src="/posts/2018-08-16-disruptor-beam/hackathon/haggling-good.gif"
+        src="${PATH_MARKDOWN}/hackathon/haggling-good.gif"
         class="zoom"
         style="width: 50%; height: 50%; float: left;"
     />
     <image
-        src="/posts/2018-08-16-disruptor-beam/hackathon/haggling-bad.gif"
+        src="${PATH_MARKDOWN}/hackathon/haggling-bad.gif"
         class="zoom"
         style="width: 50%; height: 50%; float: right;"
     />
@@ -55,24 +55,24 @@ Then I did some work on a haggling system with one of our designers;
 I also got a chance to get some experience with procedurally generated meshes and terrain generation.
 <div style="display: flex; justify-content: center;">
     <image
-        src="/posts/2018-08-16-disruptor-beam/hackathon/terrain-persist.gif"
+        src="${PATH_MARKDOWN}/hackathon/terrain-persist.gif"
         class="zoom"
         style="width: 50%; height: 50%; float: left;"
     />
     <image
-        src="/posts/2018-08-16-disruptor-beam/hackathon/terrain-lacunarity.gif"
+        src="${PATH_MARKDOWN}/hackathon/terrain-lacunarity.gif"
         class="zoom"
         style="width: 50%; height: 50%; float: right;"
     />
 </div>
 <div style="display: flex; justify-content: center;">
     <image
-        src="/posts/2018-08-16-disruptor-beam/hackathon/terrain-offset-x.gif"
+        src="${PATH_MARKDOWN}/hackathon/terrain-offset-x.gif"
         class="zoom"
         style="width: 50%; height: 50%; float: left;"
     />
     <image
-        src="/posts/2018-08-16-disruptor-beam/hackathon/terrain-offset-y.gif"
+        src="${PATH_MARKDOWN}/hackathon/terrain-offset-y.gif"
         class="zoom"
         style="width: 50%; height: 50%; float: right;"
     />
@@ -84,7 +84,7 @@ Once the studio wrapped up the Hackathon, it was back to work on Star Trek for m
 To give a brief overview, ST:Timelines is a character collection game. You collect characters from the Star Trek universe to battle and rank up. If players so desire, they can purchase characters from a "Time Portal", which is basically just in-app purchases. If the player so chooses, they can buy a pack, which is a randomized set of characters and items. The feature I was tasked with adding was adding buttons to that screen which allow the players to dismiss specific or all "crew" when the pack is revealed.
 
 <image
-    src="/posts/2018-08-16-disruptor-beam/dismiss/dismiss.gif"
+    src="${PATH_MARKDOWN}/dismiss/dismiss.gif"
     class="zoom"
     style="width: 50%; height: 50%; display: flex; justify-content: center;"
 />
@@ -109,7 +109,7 @@ As the tool is proprietary, I can't post code, but what I can show you is what J
         </code>
     </pre>
     <image
-        src="/posts/2018-08-16-disruptor-beam/templates/label.png"
+        src="${PATH_MARKDOWN}/templates/label.png"
         class="zoom"
         style="height: 50%; float: right;"
     />
@@ -125,7 +125,7 @@ As the tool is proprietary, I can't post code, but what I can show you is what J
         </code>
     </pre>
     <image
-        src="/posts/2018-08-16-disruptor-beam/templates/message.png"
+        src="${PATH_MARKDOWN}/templates/message.png"
         class="zoom"
         style="height: 50%; float: right;"
     />
@@ -140,7 +140,7 @@ As the tool is proprietary, I can't post code, but what I can show you is what J
         </code>
     </pre>
     <image
-        src="/posts/2018-08-16-disruptor-beam/templates/divider.png"
+        src="${PATH_MARKDOWN}/templates/divider.png"
         class="zoom"
         style="height: 50%; float: right;"
     />
@@ -162,7 +162,7 @@ As the tool is proprietary, I can't post code, but what I can show you is what J
         </code>
     </pre>
     <image
-        src="/posts/2018-08-16-disruptor-beam/templates/dropdown.png"
+        src="${PATH_MARKDOWN}/templates/dropdown.png"
         class="zoom"
         style="height: 50%; float: right;"
     />
@@ -179,7 +179,7 @@ As the tool is proprietary, I can't post code, but what I can show you is what J
         </code>
     </pre>
     <image
-        src="/posts/2018-08-16-disruptor-beam/templates/input.png"
+        src="${PATH_MARKDOWN}/templates/input.png"
         class="zoom"
         style="height: 50%; float: right;"
     />
@@ -195,7 +195,7 @@ As the tool is proprietary, I can't post code, but what I can show you is what J
         </code>
     </pre>
     <image
-        src="/posts/2018-08-16-disruptor-beam/templates/text.png"
+        src="${PATH_MARKDOWN}/templates/text.png"
         class="zoom"
         style="height: 50%; float: right;"
     />
@@ -211,7 +211,7 @@ As the tool is proprietary, I can't post code, but what I can show you is what J
         </code>
     </pre>
     <image
-        src="/posts/2018-08-16-disruptor-beam/templates/timestamp.png"
+        src="${PATH_MARKDOWN}/templates/timestamp.png"
         class="zoom"
         style="height: 50%; float: right;"
     />
@@ -244,7 +244,7 @@ As the tool is proprietary, I can't post code, but what I can show you is what J
         </code>
     </pre>
     <image
-        src="/posts/2018-08-16-disruptor-beam/templates/grouptoggle.png"
+        src="${PATH_MARKDOWN}/templates/grouptoggle.png"
         class="zoom"
         style="height: 50%; float: right;"
     />
@@ -266,7 +266,7 @@ As the tool is proprietary, I can't post code, but what I can show you is what J
         </code>
     </pre>
     <image
-        src="/posts/2018-08-16-disruptor-beam/templates/list.png"
+        src="${PATH_MARKDOWN}/templates/list.png"
         class="zoom"
         style="width: 50%; height: 50%; float: right;"
     />

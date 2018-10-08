@@ -13,7 +13,7 @@
 # Recap
 
 <div align="right" style="width: 25%; padding: 5pt; float: left;">
-	<img class='ouroborosDocsPrototypeFlow' style="width: 100%;" src='/posts/2018-09-19-ouroboros-documents/prototype_flow.png'/>
+	<img class='ouroborosDocsPrototypeFlow' style="width: 100%;" src='${PATH_MARKDOWN}/prototype_flow.png'/>
 	Sprint 1 and 2 prototype cuts
 </div>
 
@@ -25,7 +25,7 @@ While it doesn't feel like the team has gotten anything done, we have actually a
 
 Since this is our third and final prototype, the team decided now would be a good time to start on docs. As the programmer on the team, one of my responsibilities is the Technical Design and Risk Assessment of the game. This includes the platform the game will be built for (Windows presently), the tools we are using, and the systems that will need to be in place to support the mechanics. Each of these also needs to have their risk evaluated. This risk could have to do with how much or how well the team knows a specific topic, it could be how difficult it is to work with it, or even how difficult or how much time it will take to complete a system. The Tech.Doc. is still in its early stages, but is valuable as it helps the team and our stackholders understand why we are accomplishing certain tasks (like tackling Networking or the Gameplay Ability System) earlier, or why the team makes certain decisions (like what tasks we prioritise or why we dont use a specific software).
 
-<img style="width: 50%; float: right; padding: 10pt;" src='/posts/2018-09-19-ouroboros-documents/techdoc.gif'>
+<img style="width: 50%; float: right; padding: 10pt;" src='${PATH_MARKDOWN}/techdoc.gif'>
 
 ## Prototype
 
@@ -34,7 +34,7 @@ The team wanted to experiment in Unreal Engine 4 this week, because of where we 
 That said, the transition from Unity to Unreal has been a time and a half! Take a look at the comparison!
 
 <video style="width:50%; float: left; padding: 5pt;" controls>
-	<source src="/posts/2018-09-12-ouroboros-prototypes/chaos_coven.mp4" type="video/mp4"/>
+	<source src="/raw_posts/2018-09-12-ouroboros-prototypes/chaos_coven.mp4" type="video/mp4"/>
 </video>
 
 <iframe style="width:50%; float: right; padding: 5pt;" width="560" height="315" src="https://www.youtube.com/embed/qbZAe5YAs98?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

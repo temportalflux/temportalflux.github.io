@@ -21,9 +21,24 @@ export class Post extends React.Component {
         this.loadMarkdown().then();
     }
 
-    async loadMarkdown() {
-        let response = await fetch(`${process.env.PUBLIC_URL}/posts/${this.props.markdown}.md`);
+    static async loadMarkdown(rawFolderName, markdownBasename) {
+        let pathPublic = process.env.PUBLIC_URL;
+        let pathPublicResources = `${pathPublic}/${rawFolderName}`;
+        let pathMarkdown = `${pathPublicResources}/${markdownBasename}`;
+        let response = await fetch(`${pathMarkdown}.md`);
         let markdown = await response.text();
+        return [
+            [`\\\${PATH_RESOURCES}`, `${pathPublicResources}`],
+            [`\\\${PATH_MARKDOWN}`, `${pathMarkdown}`],
+            [`\\\${PATH_MARKDOWN_LOCAL}`, `/${rawFolderName}/${markdownBasename}`],
+        ].reduce((markdownOut, replacement) => {
+            return markdownOut.replace(new RegExp(replacement[0], 'g'), replacement[1]);
+        }, markdown);
+    }
+
+    async loadMarkdown() {
+        let markdown = await Post.loadMarkdown('raw_posts', this.props.markdown);
+        console.log(markdown);
         this.setState({ markdown: markdown });
     }
 

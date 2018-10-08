@@ -12,7 +12,7 @@ Our artist, Ellie Peak, headed up our physical prototyping this week. She took o
 Our second prototype is much easier to show here in a digital form. I was able to get basic networking up and running in Unity, and thus the first iteration of Chaos Coven was born. In this prototype, four players are pit against one another in a battle to destroy everything in sight. The twist? only "chaos" (the pink player) can destroy things. If a player is a coven member (purple), their task was to defeat "chaos" and take the role for themselves. The player who is able to finish destroying the environment as "chaos" wins. I recorded a small demo, where I play as 2 separate players (2 different computers) in the same world.
 
 <video style="width:100%;" controls>
-  <source src="/posts/2018-09-12-ouroboros-prototypes/chaos_coven.mp4" type="video/mp4">
+  <source src="${PATH_MARKDOWN}/chaos_coven.mp4" type="video/mp4">
 </video>
 
 # Looking forward

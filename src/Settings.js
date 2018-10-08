@@ -60,7 +60,7 @@ export const SETTINGS = {
     },
 
     markdown: 'kramdown',
-    permalink: '/posts/:year/:month/:day/:title',
+    permalink: '/raw_posts/:year/:month/:day/:title',
     timezone: null,
     include: [
         '_pages'

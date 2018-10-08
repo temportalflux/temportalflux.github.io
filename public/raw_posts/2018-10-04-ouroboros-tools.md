@@ -10,32 +10,32 @@ Before I do so, however, here are some cool gifs which show off some of the new 
 <div style="display: block;">
 	<center>
 		<div style="width: 50%; padding: 10pt;">
-			<img style="width: 100%;" src='/posts/2018-10-04-ouroboros-tools/countdown.gif' />
+			<img style="width: 100%;" src='${PATH_MARKDOWN}/countdown.gif' />
 			<center>
 				Matches now have a countdown
 			</center>
 		</div>
 	</center>
 	<div style="width: 50%; float: left; padding: 10pt;">
-		<img style="width: 100%;" src='/posts/2018-10-04-ouroboros-tools/yellow.gif' />
+		<img style="width: 100%;" src='${PATH_MARKDOWN}/yellow.gif' />
 		<center>
 			The "yellow" projectile
 		</center>
 	</div>
 	<div style="width: 50%; float: right; padding: 10pt;">
-		<img style="width: 100%;" src='/posts/2018-10-04-ouroboros-tools/purple.gif' />
+		<img style="width: 100%;" src='${PATH_MARKDOWN}/purple.gif' />
 		<center>
 			The "purple" projectile
 		</center>
 	</div>
 	<div style="width: 50%; float: left; padding: 10pt;">
-		<img style="width: 100%;" src='/posts/2018-10-04-ouroboros-tools/walk.gif' />
+		<img style="width: 100%;" src='${PATH_MARKDOWN}/walk.gif' />
 		<center>
 			Walking
 		</center>
 	</div>
 	<div style="width: 50%; float: right; padding: 10pt;">
-		<img style="width: 100%;" src='/posts/2018-10-04-ouroboros-tools/run.gif' />
+		<img style="width: 100%;" src='${PATH_MARKDOWN}/run.gif' />
 		<center>
 			Running (Speed bost)
 		</center>
@@ -73,7 +73,7 @@ One of the goals of this tool is also to allow developers to go back and review 
 The other tool I am working on is YOGURT. Yes, the yogurt you put in your mouth. Its a tool now.
 
 <div style="width: 25%; float: right; padding: 10pt;">
-<img style="width: 100%;" src='/posts/2018-10-04-ouroboros-tools/yogurt-comps.PNG' />
+<img style="width: 100%;" src='${PATH_MARKDOWN}/yogurt-comps.PNG' />
 <center>
 2 components: Recorder (for recording data), and Module (for loading/viewing data)
 </center>
@@ -84,7 +84,7 @@ Well, okay, maybe its not. What else could YOGURT stand for... Young Octopi Gami
 Over the past couple week, I've been studying in the Games User Research field, where developers gather data on player experience to better improve that player experience. One of the things we don't do quite as well at Champlain is gathering user experiences in a way which developers can easily access to see what players are up to and how we can improve the game from those experiences. The QARecorder is a step in the right direction, but its more geared to Quality Assurance testing, which is all about those bugs. GUR is all about the player experience once the bugs are gone.
 
 <div style="width: 25%; float: right; padding: 10pt;">
-<img style="width: 100%;" src='/posts/2018-10-04-ouroboros-tools/yogurt-details.PNG' />
+<img style="width: 100%;" src='${PATH_MARKDOWN}/yogurt-details.PNG' />
 <center>
 On DataModule, we have a new editor button(!!!)
 </center>
@@ -101,7 +101,7 @@ In the end, the whole purpose of this tool will be to get designers/developers d
 The tool is still very much in its early phases. To quote Stitch; This is my tool. I made it all on my own. It's little and (sometimes) broken, but its still good. Yes, still good.
 
 <div style="width: 100%; padding: 10pt;">
-<img style="width: 100%;" src='/posts/2018-10-04-ouroboros-tools/yogurt-graph.PNG' />
+<img style="width: 100%;" src='${PATH_MARKDOWN}/yogurt-graph.PNG' />
 <center>
 There is a graph for DataRecorder which records certain data and saves it
 </center>
