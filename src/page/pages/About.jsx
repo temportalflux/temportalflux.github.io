@@ -46,8 +46,7 @@ export class About extends React.Component {
                     Outside of work specific activities, I love taking time to rock climbing
                     (presently with Champlain's club). I also enjoy a playing or DMing Dungeons and Dragons campaign(s)
                     with a good group of friends.
-                    I also try to keep up with
-                    <a href={'https://www.youtube.com/channel/UCEklP9iLcpExB8vp_fWQseg/videos'}>Making Stuff Look Good in Video Games</a>,
+                    I also try to keep up with <a href={'https://www.youtube.com/channel/UCEklP9iLcpExB8vp_fWQseg/videos'}>Making Stuff Look Good in Video Games</a>,
                     a lovely series on shaders case-studies on how they are used in video games.
                 </p>
 
