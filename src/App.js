@@ -1,11 +1,11 @@
 import React from 'react';
-import {Route, Switch} from "react-router-dom";
+import {Route, Switch, withRouter} from "react-router-dom";
 import * as shortid from 'shortid';
 import {ROUTES} from "./Routes";
 import {Container} from "semantic-ui-react";
 import {MAX_HEIGHT} from "./Style";
 
-export default class App extends React.Component {
+class App extends React.Component {
     render() {
         return (
             <Container id={'App'} fluid style={MAX_HEIGHT}>
@@ -16,3 +16,6 @@ export default class App extends React.Component {
         );
     }
 }
+
+//export default App;
+export default withRouter(App);
