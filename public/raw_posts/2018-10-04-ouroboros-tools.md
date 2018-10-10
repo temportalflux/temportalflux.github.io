@@ -109,6 +109,6 @@ There is a graph for DataRecorder which records certain data and saves it
 
 # Weekly Team Posts
 
-Artist: Ellie Peak | [PENDING](https://www.artstation.com/elliepeak/)
+Artist: Ellie Peak | [Week 5](https://www.artstation.com/artwork/nQwNer)
 
 Designer: Conor Tully | [Sticks of Dynamite and a GAS Bomb](https://www.conortully.com/blog/chapter-5-sticks-of-dynamite-and-a-gas-bomb)
