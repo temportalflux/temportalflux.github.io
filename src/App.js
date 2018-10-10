@@ -1,5 +1,5 @@
 import React from 'react';
-import {Route, Switch, withRouter} from "react-router-dom";
+import {Route, Switch} from "react-router-dom";
 import * as shortid from 'shortid';
 import {ROUTES} from "./Routes";
 import {Container} from "semantic-ui-react";
