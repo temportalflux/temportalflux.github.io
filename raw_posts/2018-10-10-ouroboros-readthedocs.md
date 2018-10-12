@@ -42,12 +42,10 @@ documentation for read the docs. My favorite quote of of the latter being:
 > Are you getting meta and using a documentation page to write documentation pages? Woof. /documentation would be a great place for that spooky 4th wall stuff.
 
 That's all for this week. If you are interested in taking a peek at our informal documentation,
-check out [avaricedocs.readthedocs.io](avaricedocs.readthedocs.io).
+check out [avaricedocs.readthedocs.io](https://avaricedocs.readthedocs.io).
 Keep an eye out for another post on YOGURT! I've got some pretty *slick* stuff in the works.
 
 # Weekly Team Posts
 
-Artist: Ellie Peak | [Week 6 - PENDING](https://www.artstation.com/elliepeak/albums/1026708)
-
-Designer: Conor Tully | [PENDING](https://www.conortully.com/blog/)
+Designer: Conor Tully | [Sunny Side Up](https://www.conortully.com/blog/chapter-6-sunny-side-up)
 
