@@ -92,7 +92,7 @@ On DataModule, we have a new editor button(!!!)
 
 The tool - YOGURT for short - is an Unreal Engine 4 plugin in which the goal is to gather player data from playtesting sessions, and represent this data in the editor for the same build. One way I plan to make a proof of concept for this is by using heatmaps to show player position and velocity through their play session.
 
-You may be wondering if this ha already been done, and I'd respond to you with - absolutely - but has anyone rendered these heatmaps in the editor world space? Probably. Maybe they haven't because it is too intensive or complicated. I'm going to take a shot at it though.
+You may be wondering if this has already been done, and I'd respond to you with - absolutely - but has anyone rendered these heatmaps in the editor world space? Probably. Maybe they haven't because it is too intensive or complicated. I'm going to take a shot at it though.
 
 One of the other huge features for this will be data aggregation and disagreggated gameplay over time. The former being, clumping multiple play sessions worth of data into one pool and generating player experience data from that (like the statistical average of all play sessions). The latter being taking gameplay data, and allowing developers to scrub through this data based on the time of the play session.
 

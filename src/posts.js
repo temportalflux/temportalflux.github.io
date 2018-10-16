@@ -1,5 +1,23 @@
 const POSTS = [
     {
+        title: "Gameplay Ability Prototyping",
+        date: '2018-10-16',
+        language: 'C++',
+        categories: ['Unreal Engine', 'Ouroboros Creations', 'Capstone'],
+        description: 'Making the first pass on player abilities',
+        teaser: 'https://i.gyazo.com/013c017518fbe8d1ab766e0205961235.png',
+        markdown: '2018-10-16-ouroboros-gameplay',
+    },
+    {
+        title: "YOGURT: Making the mesh",
+        date: '2018-10-14',
+        language: 'C++',
+        categories: ['Unreal Engine', 'YOGURT', 'GUR'],
+        description: 'Procedural mesh and UV map generation',
+        teaser: 'http://3.bp.blogspot.com/-h4bD0ZSDLlc/VZXvOK2kFQI/AAAAAAADH_4/K-aV-q_MI70/s1600/IMG_8055-001.jpg',
+        markdown: '2018-10-14-yogurt-making-the-mesh',
+    },
+    {
         title: "Read The Docs",
         date: '2018-10-10',
         language: 'C++',

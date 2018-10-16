@@ -59,7 +59,7 @@ export class Page extends React.Component {
                         <Image
                             src={SETTINGS.author.avatar}
                             style={{
-                                maxWidth: '200px',
+                                maxWidth: '100%',
                                 borderRadius: '50%',
                             }}
                             centered
