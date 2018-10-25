@@ -1,5 +1,14 @@
 const POSTS = [
     {
+        title: "The League of Evil: Refining the fun in our game loop",
+        date: '2018-10-25',
+        language: 'C++',
+        categories: ['Unreal Engine', 'Ouroboros Creations', 'Capstone'],
+        description: 'Refinding and refining the fun in our game',
+        teaser: 'https://i.imgur.com/n18uPug.png',
+        markdown: '2018-10-25-evil-gameloop',
+    },
+    {
         title: "Gameplay Ability Prototyping",
         date: '2018-10-16',
         language: 'C++',

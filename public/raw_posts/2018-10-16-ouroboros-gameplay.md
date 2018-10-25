@@ -160,4 +160,6 @@ daily life of their developers.
 
 # Weekly Team Posts
 
-Designer: Conor Tully | [PENDING](https://www.conortully.com/blog/)
+Artist: Ellie Peak | [Week 6 & 7](https://www.artstation.com/artwork/0XXVYG)
+
+Designer: Conor Tully | [Chapter 7: The Council of Douglas](https://www.conortully.com/blog/chapter-7-the-council-of-douglas)
