@@ -1,3 +1,5 @@
+import shortid from 'shortid';
+
 const POSTS = [
     {
         title: "The League of Evil: Refining the fun in our game loop",
@@ -7,6 +9,7 @@ const POSTS = [
         description: 'Refinding and refining the fun in our game',
         teaser: 'https://i.imgur.com/n18uPug.png',
         markdown: '2018-10-25-evil-gameloop',
+        highlight: true,
     },
     {
         title: "Gameplay Ability Prototyping",
@@ -34,6 +37,7 @@ const POSTS = [
         description: 'Improving our docs to make more cool stuff',
         teaser: 'https://i.gyazo.com/013c017518fbe8d1ab766e0205961235.png',
         markdown: '2018-10-10-ouroboros-readthedocs',
+        highlight: true,
     },
     {
         title: "Tool Time",
@@ -43,6 +47,7 @@ const POSTS = [
         description: 'A full run down of the QARecorder, Gameplay Ability System, and plans for an Unreal Engine tool',
         teaser: 'https://i.gyazo.com/013c017518fbe8d1ab766e0205961235.png',
         markdown: '2018-10-04-ouroboros-tools',
+        highlight: true,
     },
     {
         title: "Systems & QA",
@@ -87,6 +92,7 @@ const POSTS = [
         categories: [ 'Internship', 'Unity', 'LiveOps' ],
         markdown: '2018-08-16-disruptor-beam',
         teaser: '/raw_posts/2018-08-16-disruptor-beam/1024x1024_Enterprise-D-Stars.png',
+        highlight: true,
     },
     {
         title: "Skyrates: A Beginning",
@@ -135,5 +141,12 @@ const POSTS = [
         markdown: '2017-09-14-site-launch',
     },
 ];
+
+export const POST_HIGHLIGHTS = POSTS.filter(post => post.highlight);
+export const CATEGORIES = Array.from(POSTS.reduce((categories, post) => {
+    for (let cate of post.categories) categories.add(cate);
+    return categories;
+}, new Set([]))).sort().map(category => { return { label: category, value: category, id: shortid.generate(), }; });
+CATEGORIES.unshift({ label: "None", value: null, id: shortid.generate(), });
 
 export default POSTS;
