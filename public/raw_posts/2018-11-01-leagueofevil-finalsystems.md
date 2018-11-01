@@ -142,5 +142,5 @@ minutes on my own in an empty world.
 
 Artist: Ellie Peak | [pending](https://www.artstation.com/elliepeak/albums/1026708)
 
-Designer: Conor Tully | [pending](https://www.conortully.com/blog/)
+Designer: Conor Tully | [Chapter 9: Red Velvet](https://www.conortully.com/blog/chapter-9-red-velvet?fbclid=IwAR3ESO4ShVHbdMe4VrwTr2sm7S4_s3QncyqNhZ28cvumqcIG6-N8mNeHfws)
 
