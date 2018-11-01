@@ -1,7 +1,7 @@
 import React from 'react';
-import {Header, Pagination, Divider, Dropdown} from "semantic-ui-react";
+import {Header, Pagination, Divider} from "semantic-ui-react";
 import {Page} from "../../Page";
-import POSTS, {CATEGORIES, POST_HIGHLIGHTS} from "../../../posts";
+import POSTS, {POST_HIGHLIGHTS} from "../../../posts";
 import moment from "moment";
 import * as lodash from "lodash";
 import {PostPreview} from "./PostPreview";
