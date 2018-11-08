@@ -140,7 +140,7 @@ minutes on my own in an empty world.
 
 # Weekly Team Posts
 
-Artist: Ellie Peak | [pending](https://www.artstation.com/elliepeak/albums/1026708)
+Artist: Ellie Peak | [Week 9](https://www.artstation.com/artwork/Jl9akn)
 
 Designer: Conor Tully | [Chapter 9: Red Velvet](https://www.conortully.com/blog/chapter-9-red-velvet?fbclid=IwAR3ESO4ShVHbdMe4VrwTr2sm7S4_s3QncyqNhZ28cvumqcIG6-N8mNeHfws)
 
