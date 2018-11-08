@@ -2,6 +2,16 @@ import shortid from 'shortid';
 
 const POSTS = [
     {
+        title: "Culture, Crunch, and Capstone",
+        date: '2018-11-08',
+        language: 'C++',
+        categories: ['Unreal Engine', 'Capstone', 'Champlain', 'Crunch'],
+        description: '',
+        teaser: 'https://i.imgur.com/n18uPug.png',
+        markdown: '2018-11-08-culture-crunch-capstone',
+        highlight: true,
+    },
+    {
         title: "The League of Evil: Final Systems & YOGURT Update",
         date: '2018-11-01',
         language: 'C++',
