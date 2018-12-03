@@ -135,4 +135,4 @@ stellar.
 
 Artist: Ellie Peak | [pending](https://www.artstation.com/elliepeak/albums/1026708)
 
-Designer: Conor Tully | [Chapter 10: The Grindstone](https://www.conortully.com/blog/chapter-10-the-grindstone)
+Designer: Conor Tully | [Chapter 10: pending](https://www.conortully.com/blog/)
