@@ -2,6 +2,15 @@ import shortid from 'shortid';
 
 const POSTS = [
     {
+        title: "Capital Vice: A Postmortem",
+        date: '2018-12-03',
+        language: 'C++',
+        categories: ['Unreal Engine', 'Capstone', 'Champlain'],
+        description: '',
+        teaser: '/raw_posts/2018-12-03-capital-vice-a-postmortem/logo.png',
+        markdown: '2018-12-03-capital-vice-a-postmortem',
+    },
+    {
         title: "Culture, Crunch, and Capstone",
         date: '2018-11-08',
         language: 'C++',
