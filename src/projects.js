@@ -7,8 +7,7 @@ const PROJECTS = [
         language: "C#",
         markdown: "01_space-pirates-in-space",
 
-        portfolio: true,
-        order: 1,
+        portfolio: false,
 
         header: '/images/teaser.png',
         description: 'A turn-based strategy demo that pits two space-stranded pirate crews against each other.',
@@ -87,8 +86,7 @@ const PROJECTS = [
         language: "Unity, C#",
         markdown: "06_sensordemo",
 
-        portfolio: true,
-        order: 4,
+        portfolio: false,
 
         header: '/images/teaser.png',
         description: 'A demonstration of using wireless sensors in Unity',
@@ -139,6 +137,40 @@ const PROJECTS = [
         contribution: 'Programmer',
         outcomes: 'Unreal Engine 4. AI. State-driven gameplay.',
 
+    },
+    {
+        title: "Capital Vice",
+        date: "2018-11-20",
+        teaser: "/images/teaser.png",
+        language: "C#",
+        markdown: "10_capitalvice",
+
+        portfolio: true,
+        order: 10,
+
+        timeframe: 'September-November 2018 (12 weeks)',
+        team: 'Cody Douglas. Ellie Peak. Conor Tully.',
+        contribution: 'Programmer',
+        outcomes: 'Unreal Engine 4. Networking. Gameplay Programming. Scope management. Quality Assurance. Games User Research.',
+        executable: '',
+        repository: '',
+    },
+    {
+        title: "YOGURT",
+        date: "2018-12-14",
+        teaser: "/images/teaser.png",
+        language: "C#",
+        markdown: "11_yogurt",
+
+        portfolio: true,
+        order: 11,
+
+        timeframe: 'September-December 2018 (15 weeks)',
+        team: '',
+        contribution: 'Programmer',
+        outcomes: 'Unreal Engine 4 & Plugins. Tool Development. Open Source. Games User Research.',
+        executable: '',
+        repository: '',
     },
 ];
 
