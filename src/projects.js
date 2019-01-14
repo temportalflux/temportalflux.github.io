@@ -43,7 +43,7 @@ const PROJECTS = [
         language: "C#",
         markdown: "03_bug-hunt",
 
-        portfolio: true,
+        portfolio: false,
         order: 3,
 
         description: 'A driving game which frames the player as an apocalypse survivor on the run from invading aliens. The player uses a Wiimote based gun and a steering wheel to drive themselves away from danger.',
@@ -159,16 +159,33 @@ const PROJECTS = [
         title: "YOGURT",
         date: "2018-12-14",
         teaser: "/images/teaser.png",
-        language: "C#",
+        language: "C++",
         markdown: "11_yogurt",
 
         portfolio: true,
-        order: 11,
+        order: 12,
 
         timeframe: 'September-December 2018 (15 weeks)',
         team: '',
         contribution: 'Programmer',
         outcomes: 'Unreal Engine 4 & Plugins. Tool Development. Open Source. Games User Research.',
+        executable: '',
+        repository: '',
+    },
+    {
+        title: "Stray",
+        date: "2019-01-14",
+        teaser: "/images/teaser.png",
+        language: "C++",
+        markdown: "12_stray",
+
+        portfolio: true,
+        order: 11,
+
+        timeframe: 'September 2018-May 2019 (30 weeks)',
+        team: '',
+        contribution: 'Programmer',
+        outcomes: 'Unreal Engine 4 & Plugins. Tool Development. Games User Research.',
         executable: '',
         repository: '',
     },

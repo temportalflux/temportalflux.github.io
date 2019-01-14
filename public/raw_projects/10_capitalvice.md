@@ -34,3 +34,12 @@ however, as other players are able to hurt them and thereby take Greed for thems
 </center>
 </div>
 
+As the only programmer on the team, my contributions spanned the game.
+I worked on the pipeline with our artist and designer so they had an easier time working on the environment
+so that it felt realistic. I also fixed most of the bugs that cropped up in our QA sessions. The game was
+tested for bugs, playability, player experience 3 times a week, so these reports had to be iterated on rapidly.
+As such, we implemented a variant of the RITE method.
+Most of my focus went to the gameplay, as we used a new plugin called the
+[Gameplay Ability System](https://docs.unrealengine.com/en-US/Gameplay/GameplayAbilitySystem).
+This was a new tool for the team, so for pre-production, I worked hand in hand with our designer to tweak
+gameplay abilities and improve their usage and playability.
