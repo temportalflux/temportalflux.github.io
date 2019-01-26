@@ -114,4 +114,4 @@ and you can see a few samples below.
 
 Check out blog posts for this week from some of my team members.
 
-Lenny Gingello: [Website](http://www.lennygingello.com/capstoneblog)
+Lenny Gingello: [We Back!](http://www.lennygingello.com/capstoneblog/2019/1/19/we-back-senior-production-sprint-1)
