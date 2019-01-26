@@ -2,6 +2,15 @@ import shortid from 'shortid';
 
 const POSTS = [
     {
+        title: "UtilityAI: Exploration and Planning",
+        date: '2019-01-26',
+        language: 'C++',
+        categories: ['Unreal Engine', 'AI', 'UtilityAI'],
+        description: '',
+        teaser: '/raw_posts/2019-01-26-utility-ai-exploration-and-planning/blackboard.png',
+        markdown: '2019-01-26-utility-ai-exploration-and-planning',
+    },
+    {
         title: "Stray: Meetings and Creatures Galore",
         date: '2019-01-25',
         language: 'C++',
