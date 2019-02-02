@@ -61,7 +61,8 @@ looked into the feasibility of procedural snake animation using
 sinusoidal waves aka the wiggle function. If timed correctly,
 this would simulate the
 [natural movement of snakes](https://en.wikipedia.org/wiki/Snake#Locomotion)
-where the input correlated to the distance traveled per tick. Not
+where the input correlated to the distance traveled per tick.
+This is also similar to [WoW's Cloud Serpents](https://www.youtube.com/watch?v=Xu4k7OHp0p8). Not
 much more of this as of yet, as there is no skeleton to mess with yet.
 I will add an addendum here when there is more to show if its before
 the end of the sprint, otherwise stay tuned for next week's post.
