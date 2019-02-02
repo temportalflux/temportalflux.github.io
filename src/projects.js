@@ -193,7 +193,7 @@ const PROJECTS = [
         title: "AVL Memory Manager",
         date: "2019-02-01",
         teaser: "/images/teaser.png",
-        language: "C++",
+        language: "C",
         markdown: "13_avl_memory_management",
 
         portfolio: true,
@@ -202,7 +202,7 @@ const PROJECTS = [
         timeframe: 'January 2018(1 week)',
         team: 'Christopher Brennan',
         contribution: 'Programmer',
-        outcomes: 'C. Just C.',
+        outcomes: 'Programming in C. Just C. Memory Management. Data Structures. Fragmentation.',
         executable: '',
         repository: '',
     },
