@@ -189,6 +189,23 @@ const PROJECTS = [
         executable: '',
         repository: '',
     },
+    {
+        title: "AVL Memory Manager",
+        date: "2019-02-01",
+        teaser: "/images/teaser.png",
+        language: "C++",
+        markdown: "13_avl_memory_management",
+
+        portfolio: true,
+        order: 12,
+
+        timeframe: 'January 2018(1 week)',
+        team: 'Christopher Brennan',
+        contribution: 'Programmer',
+        outcomes: 'C. Just C.',
+        executable: '',
+        repository: '',
+    },
 ];
 
 export default PROJECTS;
