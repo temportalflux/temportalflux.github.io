@@ -2,6 +2,15 @@ import shortid from 'shortid';
 
 const POSTS = [
     {
+        title: "Stray: Golums and Snakes and Spaghetti - Oh My",
+        date: '2019-02-02',
+        language: 'C++',
+        categories: ['Unreal Engine', 'Capstone', 'Champlain', 'Stray', 'AI'],
+        description: '',
+        teaser: '/raw_projects/12_stray/images/justicePorkGames.png',
+        markdown: '2019-02-02-stray-golums-snakes-spaghetti',
+    },
+    {
         title: "UtilityAI: Exploration and Planning",
         date: '2019-01-26',
         language: 'C++',
