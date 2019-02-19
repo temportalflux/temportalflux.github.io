@@ -62,13 +62,3 @@ primer of what I dubbed the Dynamic Skeletal/Sub/Socket Mesh
 attachment system. This system mirrors the architecture of a skeleton
 or rig, and allows me to easily socket meshes to a rig by creating a
 few assets and calling a function.
-
-<center>
-<div style="padding: 10pt; width: 80%;">
-<img
-    style="width: 100%;"
-    src='${PATH_MARKDOWN}/dsm'
-/>
-
-</div>
-</center>
