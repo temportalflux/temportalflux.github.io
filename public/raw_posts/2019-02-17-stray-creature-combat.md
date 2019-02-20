@@ -3,6 +3,21 @@ This week has been a total blur, quite stressful at times, but also
 an outstanding amount of fun and excitement. There is so much that
 has happened, and so much left to do, lets see if I can remember it all.
 
+<center>
+<div style="padding: 10pt; width: 80%;">
+<img
+    style="width: 100%;"
+    src='${PATH_MARKDOWN}/engBacklog1.jpg'
+/>
+Fig 1. First pass on engineering roadmap/feature list
+<img
+    style="width: 100%;"
+    src='${PATH_MARKDOWN}/engBacklog2.jpg'
+/>
+Fig 2. Second pass on engineering roadmap/feature list - more detail
+</div>
+</center>
+
 On Thursday (Sprint day 2), the team gathered to layout the remaining
 roadmap to alpha. We've only got another 2 weeks left on this, and
 we quickly discovered that there is still a lot left to do.
@@ -29,6 +44,16 @@ team planned on getting the Golems and Urchins to QA on Saturday,
 and it looked like this was less and less likely, especially considering
 that I had also been drafted to help with a ski trip that went from
 4pm to 11pm Friday night.
+
+<center>
+<div style="padding: 10pt; width: 80%;">
+<img
+    style="width: 100%;"
+    src='${PATH_MARKDOWN}/creaturesAndBosses.jpg'
+/>
+Fig 3. Outline of behaviors/combat abilities of remaining creatures and AI
+</div>
+</center>
 
 Thankfully though, that ski trip was amazing and re-energized me for
 the Saturday to come. And then I was also brought on to help with
