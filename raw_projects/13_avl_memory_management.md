@@ -185,8 +185,14 @@ At the end of the week, the code was feature complete, bug free
 (as far as the couple of unit tests we ran), and well documented.
 Due to the fact that as a programmer, both of us are always learning,
 the code has been changed after the fact to refactor the private/
-internally used functions. Further code maintenance will be required
-before it is able to be released to the public (aka added to my portfolio).
+internally used functions. 
+~~Further code maintenance will be required
+before it is able to be released to the public (aka added to my portfolio).~~
+Hey, I added this project to a side-project called TemportalEngine.
+You can check it out at the [github](https://github.com/temportalflux/TemportalEngine).
+This project has files in the
+[includes](https://github.com/temportalflux/TemportalEngine/blob/master/TemportalEngine/include/memory/MemoryManager.h)
+and [source](https://github.com/temportalflux/TemportalEngine/blob/master/TemportalEngine/source/memory/MemoryManager.c).
 
 ### Slab size in framework
 
