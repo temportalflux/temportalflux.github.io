@@ -1,4 +1,14 @@
 
 a {
-    color: #05f;
+    color: #F49D37;
+}
+
+a:hover
+{
+    color: #D72638;
+}
+
+p
+{
+    color: #EAF0CE;
 }
