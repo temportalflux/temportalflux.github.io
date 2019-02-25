@@ -25,7 +25,7 @@ export class Page extends React.Component {
 
     createIconLink(icon, text, link) {
         let comp = [
-            React.createElement(icon, { key: 'i', color: "blue" }),
+            React.createElement(icon, { key: 'i', color: "#F49D37" }),
             ' ',
             <span key='s' itemProp="name">{text}</span>,
         ];

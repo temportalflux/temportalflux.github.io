@@ -1,3 +1,4 @@
+// color palette: https://coolors.co/272b30-0000ff-d72638-eaf0ce-f49d37
 
 const PROJECTS = [
     {
@@ -25,7 +26,7 @@ const PROJECTS = [
         language: "C#",
         markdown: "02_dreamtime",
 
-        portfolio: true,
+        portfolio: false,
         order: 2,
 
         description: 'A 2D platformer based around the Aboriginal Australian concept \'Dreamtime\'.',

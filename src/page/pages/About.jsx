@@ -3,7 +3,7 @@ import {Page} from "../Page";
 import {Image} from "semantic-ui-react";
 
 const Keyword = (props) => (
-    <b style={{color: '#ff4400'}}>{props.children}</b>
+    <b style={{}}>{props.children}</b>
 );
 
 export class About extends React.Component {
