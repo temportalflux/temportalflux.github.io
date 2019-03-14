@@ -22,10 +22,13 @@ Prototype trailer from Pre-Production
 </center>
 
 Stray is an action-adventure game wherein you play as a derelict boy searching for his
-lost friend and caregiver. Armed with a mechanical ... arm, you must take on the corrupted wildlife
+lost friend and caregiver. Armed with a mechanical arm, you must take on the corrupted wildlife
 and unforgiving environment in an effort to purify the land and uncover the truth surrounding her sudden disappearance.
 
-I joined the Justice Pork Games team in January 2019. Throughout production, I contributed work on the
-realistic enemies and artificial intelligence. I focused on utilizing UtilityAI in tandem with state machines.
-
-This is an on going project.
+I joined the Justice Pork Games team in January 2019. While working on Stray: They Wayward Path,
+I took ownership of the creature features, iterating heavily on AI for everything from
+the simple Urchins to the complex behaviors of the final boss. My goal in this work
+was always to get to a point in which the creatures which surround the player seem
+believable, both in terms of their context and their actions. I also took on responsibility of
+handling our build pipeline, ensure that player-facing builds had everything packaged properly,
+when through testing, and included proper versioning and changelists.
