@@ -207,6 +207,23 @@ const PROJECTS = [
         executable: '',
         repository: '',
     },
+    {
+        title: "QA Recorder",
+        date: "2018-03-20",
+        teaser: "/qarec-logo.png",
+        language: "JavaScript, ReactJS",
+        markdown: "14_qarecorder",
+
+        portfolio: true,
+        order: 11,
+
+        timeframe: 'March 2018-November 2019 (development as required)',
+        team: '',
+        contribution: 'Programmer',
+        outcomes: 'Tool development. Application management from third-party system. Recording gameplay. Iterative feedback.',
+        executable: 'https://github.com/temportalflux/QA-Recorder/releases/tag/v1.0.3',
+        repository: 'https://github.com/temportalflux/QA-Recorder',
+    },
 ];
 
 export default PROJECTS;
