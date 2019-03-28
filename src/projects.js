@@ -71,7 +71,7 @@ const PROJECTS = [
         language: "C++, JavaScript",
         markdown: "05_sensorconnect",
 
-        portfolio: true,
+        portfolio: false,
         order: 6,
 
         description: 'The main PC software for the sensors developed by LORD Corp.',
