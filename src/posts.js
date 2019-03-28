@@ -2,6 +2,24 @@ import shortid from 'shortid';
 
 const POSTS = [
     {
+        title: "Stray: Builds, Cons, and Beta",
+        date: '2019-03-28',
+        language: 'C++',
+        categories: [
+            // Location
+            'Champlain',
+            // Project
+            'Capstone',
+            'Stray',
+            // Field
+            // Tools
+            'Unreal Engine',
+        ],
+        description: '',
+        teaser: '/raw_projects/12_stray/images/justicePorkGames.png',
+        markdown: '2019-03-28-stray-builds-cons-beta',
+    },
+    {
         title: "Stray: Alpha Preparation",
         date: '2019-02-24',
         language: 'C++',
