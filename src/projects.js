@@ -174,20 +174,20 @@ const PROJECTS = [
         repository: '',
     },
     {
-        title: "Stray",
+        title: "Stray: The Wayward Path",
         date: "2019-01-14",
         teaser: "/images/teaser.png",
         language: "C++",
         markdown: "12_stray",
 
         portfolio: true,
-        order: 11,
+        order: 12,
 
         timeframe: 'September 2018-May 2019 (30 weeks)',
         team: '',
         contribution: 'Programmer',
-        outcomes: 'Unreal Engine 4 & Plugins. Tool Development. Games User Research.',
-        executable: '',
+        outcomes: 'Unreal Engine 4 & Plugins. AI. Gameplay. Tool Development. Games User Research.',
+        executable: 'https://github.com/temportalflux/temportalflux.github.io/releases/download/download-stray-executable/Stray-0.4.0.zip',
         repository: '',
     },
     {

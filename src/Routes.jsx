@@ -32,11 +32,13 @@ export const ROUTES = [
         component: Page.Resume,
         headerItem: {content: 'Resume', name: 'Resume'}
     },
+    /* REEL DISABLED
     {
         path: '/reel',
         component: Page.Reel,
         headerItem: {content: 'Reel', name: 'reel'}
     },
+    //*/
     ...(PROJECTS.map((info) => {
         return {
             path: `/projects/${info.markdown}`,
