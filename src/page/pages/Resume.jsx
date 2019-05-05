@@ -1,5 +1,5 @@
 import React from 'react';
-import {Button, Dropdown, Header, List, Menu, Segment} from "semantic-ui-react";
+import {Button, Header, List, Menu, Segment} from "semantic-ui-react";
 import {Page} from "../Page";
 import * as shortid from "shortid";
 import {resumes} from "./Resume/data";

@@ -1,5 +1,4 @@
 import React from 'react';
-import {Section} from "./Section";
 import {List} from "./List";
 
 export class Experience extends React.Component
