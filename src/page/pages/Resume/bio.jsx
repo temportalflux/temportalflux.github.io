@@ -126,7 +126,7 @@ export let bio = {
                 'Awards: '
                 + 'President’s List (Fall 2017, Spring 2019), '
                 + 'Dean’s List (Fall 2015, Spring 2016, Fall 2016, Spring 2017, Sprint 2018), '
-                + '2017 George Bradford Excellence Award for demonstrated excellence in citizenship and academics, ',
+                + '2017 George Bradford Excellence Award for demonstrated excellence in citizenship and academics, '
                 + '2019 Outstanding Game Programmer, '
                 + '2019 Excellence in Mathematics',
                 'Member: Student Government Association, National Society of Leadership and Success, Emerging Leaders, Tabletop Games, Good Fun Games, Rock Climbing club',
