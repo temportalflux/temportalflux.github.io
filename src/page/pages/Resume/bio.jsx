@@ -25,6 +25,7 @@ export let bio = {
                 "Helped residents with issues regarding roommates or room placement",
                 "Worked with residents to understand Champlain policies and deal with everyday life issues",
                 "Held programs/events to educate and engage residents in the hall and in the greater Champlain community",
+                "Awards: 2019 Supervisor Recognition Award, 2019 Josh Tubbs Award for excellence as a Third-Year RA"
             ],
         },
         'ChamplainCollege_SGA': {
@@ -120,8 +121,14 @@ export let bio = {
             institution: 'Champlain College',
             location: 'Burlington, VT',
             end: 'May 2019',
-            degree: 'Bachelor of Science in Game Programming and Minor in Mathematics | GPA: 3.87',
+            degree: 'Bachelor of Science in Game Programming and Minor in Mathematics | GPA: 3.89 | Summa Cum Laude',
             experiences: [
+                'Awards: '
+                + 'President’s List (Fall 2017, Spring 2019), '
+                + 'Dean’s List (Fall 2015, Spring 2016, Fall 2016, Spring 2017, Sprint 2018), '
+                + '2017 George Bradford Excellence Award for demonstrated excellence in citizenship and academics, ',
+                + '2019 Outstanding Game Programmer, '
+                + '2019 Excellence in Mathematics',
                 'Member: Student Government Association, National Society of Leadership and Success, Emerging Leaders, Tabletop Games, Good Fun Games, Rock Climbing club',
                 'Startup and run the Open-Source Software Development (OSD) initiative (2017-2018)',
             ],
