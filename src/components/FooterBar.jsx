@@ -8,6 +8,7 @@ export class FooterBar extends React.Component {
             <div id={'footer'}>
                 <Divider />
                 <Header as={'h5'} textAlign={'center'} content={'© 2018 Dustin Yost.'} />
+                <a href={"https://github.com/temportalflux/temportalflux.github.io/tree/develop"}>Powered by Github</a>
             </div>
         );
     }
