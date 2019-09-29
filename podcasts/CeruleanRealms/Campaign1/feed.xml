@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Cerulean Realms: Campaign 1</title>
+		<link>https://temportalflux.github.io/podcasts/CeruleanRealms/Campaign1/feed.xml</link>
+		<description>A DnD podcast for a home game following an odd bunch of adventurers in a homebrew world.</description>
+		<atom:link rel="self" type="application/rss+xml" href="https://temportalflux.github.io/podcasts/CeruleanRealms/Campaign1/feed.xml" />
+		<item>
+			<title>A Trek to Phandalin</title>
+			<guid>https://drive.google.com/uc?id=19oHqKGt-m4nNHQgsoA62qPu2JooBNYS9</guid>
+			<description>Dekom, Dorian, Lo'Liko, and Minow head for Phandalin to deliver goods for Gundren Rockseeker.</description>
+			<link>https://drive.google.com/uc?id=19oHqKGt-m4nNHQgsoA62qPu2JooBNYS9</link>
+		</item>
+	</channel>
+</rss>
