@@ -1,8 +1,9 @@
+import React from "react";
+import {Header} from "semantic-ui-react";
 import Page from "./page";
 import PROJECTS from "./projects";
-import React from "react";
 import POSTS from "./posts";
-import {Header} from "semantic-ui-react";
+import FEEDS from "./podcasts";
 
 export const ROUTES = [
     {
@@ -49,6 +50,12 @@ export const ROUTES = [
         return {
             path: `/posts/${info.markdown}`,
             render: () => <Page.Post {...info} />,
+        };
+    })),
+    ...(FEEDS.map((info) => {
+        return {
+            path: `/podcasts/${info.path}`,
+            render: () => <Page.Podcast {...info} />,
         };
     })),
     {
