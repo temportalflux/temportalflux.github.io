@@ -1,7 +1,7 @@
 import React from 'react';
 import { NavLink, withRouter } from "react-router-dom";
 import { Page } from "../Page";
-import { Header, Button, Icon } from "semantic-ui-react";
+import { Header } from "semantic-ui-react";
 import FEEDS from "../../podcasts";
 import * as shortid from "shortid";
 
