@@ -3,24 +3,30 @@
 	<channel>
 		<title>Cerulean Realms: Campaign 1</title>
 		<link>https://temportalflux.github.io/podcasts/CeruleanRealms/Campaign1/feed.xml</link>
+		<atom:link rel="self" type="application/rss+xml" href="https://temportalflux.github.io/podcasts/CeruleanRealms/Campaign1/feed.xml" />
+		<language>en-us</language>
+		<copyright>℗ &amp; © 2019 Dustin Yost &amp; Friends</copyright>
+		<pubDate>September 29 2019 00:21:00 EST</pubDate>
+
+        <itunes:subtitle>DnD 5e Podcast for a home game to share with family and friends.</itunes:subtitle>
+        <itunes:summary>A DnD podcast for a home game following an odd bunch of adventurers in a homebrew world.</itunes:summary>
 		<description>A DnD podcast for a home game following an odd bunch of adventurers in a homebrew world.</description>
+
+		<itunes:image href='https://drive.google.com/uc?confirm=m1Ad&amp;id=1RimwNkzIFlRiJ5pzZunM7AJZFJPPBUdf' />
+
+		<itunes:author>Dustin Yost</itunes:author>
+		<itunes:owner>
+			<itunes:name>Dustin Yost</itunes:name>
+			<itunes:email>dustin.yost.t@gmail.com</itunes:email>
+		</itunes:owner>
 
 		<category>tabletop</category>
 		<itunes:category text="Tabletop" />
 		<category>Dungeons and Dragons</category>
 		<itunes:category text="Dungeons and Dragons" />
 
-		<atom:link rel="self" type="application/rss+xml" href="https://temportalflux.github.io/podcasts/CeruleanRealms/Campaign1/feed.xml" />
-		<language>en-us</language>
-		<pubDate>September 29 2019 00:21:00 EST</pubDate>
-
-		<itunes:image>
-			<a href='https://drive.google.com/uc?confirm=m1Ad&amp;id=1RimwNkzIFlRiJ5pzZunM7AJZFJPPBUdf' />
-		</itunes:image>
-
-		<itunes:author>Dustin Yost</itunes:author>
-		<itunes:email>dustin.yost.t@gmail.com</itunes:email>
-
+		<itunes:explicit>yes</itunes:explicit>
+		
 		<item>
 			<title>Finding Footing in Neverwinter</title>
 			<description>A new party finds themselves in the hold of a pirate ship.</description>
@@ -37,5 +43,6 @@
 			<enclosure type="audio/mpeg" url="https://drive.google.com/uc?confirm=m1Ad&amp;id=18pvWqs4gp7LoIxE4cup3WDKEnb2PNlOg" length="300000" />
 			<itunes:order>100</itunes:order>
 		</item>
+		
 	</channel>
 </rss>
