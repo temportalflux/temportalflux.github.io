@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 	<channel>
 		<title>Cerulean Realms: Campaign 1</title>
-		<link>https://temportalflux.github.io/podcasts/CeruleanRealms/Campaign1/feed.xml</link>
-		<atom:link rel="self" type="application/rss+xml" href="https://temportalflux.github.io/podcasts/CeruleanRealms/Campaign1/feed.xml" />
+		<link>https://temportalflux.github.io/podcasts</link>
+		<atom:link rel="self" type="application/rss+xml" href="https://temportalflux.github.io/podcasts" />
 		<language>en-us</language>
 		<copyright>℗ &amp; © 2019 Dustin Yost &amp; Friends</copyright>
 
@@ -26,37 +26,43 @@
 		<itunes:explicit>yes</itunes:explicit>
 		
 		<item>
+			<title>Finding Footing in Neverwinter</title>
 			<itunes:title>Finding Footing in Neverwinter</itunes:title>
+            <description>A new party finds themselves in the hold of a pirate ship.</description>
             <itunes:subtitle>A new party finds themselves in the hold of a pirate ship.</itunes:subtitle>
 			<itunes:summary>A new party finds themselves in the hold of a pirate ship.</itunes:summary>
 			<itunes:author>Dustin Yost</itunes:author>
-			<guid>https://drive.google.com/uc?confirm=m1Ad&amp;id=18pvWqs4gp7LoIxE4cup3WDKEnb2PNlOg</guid>
-			<link>https://drive.google.com/uc?confirm=m1Ad&amp;id=18pvWqs4gp7LoIxE4cup3WDKEnb2PNlOg</link>
-			<enclosure type="audio/mpeg" url="https://drive.google.com/uc?confirm=m1Ad&amp;id=18pvWqs4gp7LoIxE4cup3WDKEnb2PNlOg" length="270825002" />
+			<guid>https://drive.google.com/uc?export=download&amp;confirm=drIA&amp;id=18pvWqs4gp7LoIxE4cup3WDKEnb2PNlOg</guid>
+			<link>https://drive.google.com/uc?export=download&amp;confirm=drIA&amp;id=18pvWqs4gp7LoIxE4cup3WDKEnb2PNlOg</link>
+			<enclosure type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;confirm=drIA&amp;id=18pvWqs4gp7LoIxE4cup3WDKEnb2PNlOg" length="270825002" />
 			<pubDate>September 14 2019 00:19:00 EST</pubDate>
 			<itunes:duration>04:47:08</itunes:duration>
 			<itunes:order>1</itunes:order>
 		</item>
 		<item>
+			<title>Sewer Spelunking</title>
 			<itunes:title>Sewer Spelunking</itunes:title>
+            <description>Dekom, Dorian, Lo'Liko, and Minow explore the sewers of Neverwinter.</description>
             <itunes:subtitle>Dekom, Dorian, Lo'Liko, and Minow explore the sewers of Neverwinter.</itunes:subtitle>
 			<itunes:summary>Dekom, Dorian, Lo'Liko, and Minow explore the sewers of Neverwinter.</itunes:summary>
 			<itunes:author>Dustin Yost</itunes:author>
-			<guid>https://drive.google.com/uc?confirm=m1Ad&amp;id=1RLRvDIEGIfkS2UioamPTiAC6_cKP9Kyr</guid>
-			<link>https://drive.google.com/uc?confirm=m1Ad&amp;id=1RLRvDIEGIfkS2UioamPTiAC6_cKP9Kyr</link>
-			<enclosure type="audio/mpeg" url="https://drive.google.com/uc?confirm=m1Ad&amp;id=1RLRvDIEGIfkS2UioamPTiAC6_cKP9Kyr" length="339825911" />
+			<guid>https://drive.google.com/uc?export=download&amp;confirm=drIA&amp;id=1RLRvDIEGIfkS2UioamPTiAC6_cKP9Kyr</guid>
+			<link>https://drive.google.com/uc?export=download&amp;confirm=drIA&amp;id=1RLRvDIEGIfkS2UioamPTiAC6_cKP9Kyr</link>
+			<enclosure type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;confirm=drIA&amp;id=1RLRvDIEGIfkS2UioamPTiAC6_cKP9Kyr" length="339825911" />
 			<pubDate>September 21 2019 00:19:00 EST</pubDate>
 			<itunes:duration>03:54:07</itunes:duration>
 			<itunes:order>2</itunes:order>
 		</item>
 		<item>
+			<title>A Trek To Phandalin</title>
 			<itunes:title>A Trek To Phandalin</itunes:title>
+            <description>Dekom, Dorian, Lo'Liko, and Minow begin their journey towards Phandalin.</description>
             <itunes:subtitle>Dekom, Dorian, Lo'Liko, and Minow begin their journey towards Phandalin.</itunes:subtitle>
 			<itunes:summary>Dekom, Dorian, Lo'Liko, and Minow begin their journey towards Phandalin.</itunes:summary>
 			<itunes:author>Dustin Yost</itunes:author>
-			<guid>https://drive.google.com/uc?confirm=m1Ad&amp;id=140kdp5RXZDIRO1oUb3QFPAxXPGUWXpA0</guid>
-			<link>https://drive.google.com/uc?confirm=m1Ad&amp;id=140kdp5RXZDIRO1oUb3QFPAxXPGUWXpA0</link>
-			<enclosure type="audio/mpeg" url="https://drive.google.com/uc?confirm=m1Ad&amp;id=140kdp5RXZDIRO1oUb3QFPAxXPGUWXpA0" length="341156551" />
+			<guid>https://drive.google.com/uc?export=download&amp;confirm=drIA&amp;id=140kdp5RXZDIRO1oUb3QFPAxXPGUWXpA0</guid>
+			<link>https://drive.google.com/uc?export=download&amp;confirm=drIA&amp;id=140kdp5RXZDIRO1oUb3QFPAxXPGUWXpA0</link>
+			<enclosure type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;confirm=drIA&amp;id=140kdp5RXZDIRO1oUb3QFPAxXPGUWXpA0" length="341156551" />
 			<pubDate>September 28 2019 00:19:00 EST</pubDate>
 			<itunes:duration>04:00:22</itunes:duration>
 			<itunes:order>3</itunes:order>
