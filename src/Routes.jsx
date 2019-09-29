@@ -33,6 +33,11 @@ export const ROUTES = [
         component: Page.Resume,
         headerItem: {content: 'Resume', name: 'Resume'}
     },
+    {
+        path: '/podcasts',
+        component: Page.PodcastList,
+        headerItem: {content: 'Podcasts', name: 'Podcasts'}
+    },
     /* REEL DISABLED
     {
         path: '/reel',

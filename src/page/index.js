@@ -8,6 +8,7 @@ import {Reel} from "./pages/Reel";
 import {Project} from './pages/Projects/Project';
 import {Post} from "./pages/Blog/Post";
 import {Podcast} from "./pages/Podcast";
+import PodcastList from "./pages/PodcastList";
 
 Page.Main = Main;
 Page.About = About;
@@ -17,6 +18,7 @@ Page.Blog = Blog;
 Page.Post = Post;
 Page.Resume = Resume;
 Page.Reel = Reel;
+Page.PodcastList = PodcastList;
 Page.Podcast = Podcast;
 
 export default Page;
