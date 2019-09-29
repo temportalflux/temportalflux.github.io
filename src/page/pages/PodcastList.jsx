@@ -20,7 +20,12 @@ class PodcastList extends React.Component
 						as={NavLink}
 						exact={true}
 						target='_blank'
-					>{info.title}</Header>
+					>
+						{info.title}
+						<Header.Subheader>
+							<a href={info.source} target='_blank'>File source</a>
+						</Header.Subheader>
+					</Header>
 				))}
 			</Page>
 		);
