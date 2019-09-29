@@ -11,7 +11,7 @@
         <itunes:summary>A DnD podcast for a home game following an odd bunch of adventurers in a homebrew world.</itunes:summary>
 		<description>A DnD podcast for a home game following an odd bunch of adventurers in a homebrew world.</description>
 
-		<itunes:image href='https://drive.google.com/uc?confirm=m1Ad&amp;id=1RimwNkzIFlRiJ5pzZunM7AJZFJPPBUdf' />
+		<itunes:image href='https://ia601407.us.archive.org/34/items/ceruleanrealms-c1/artwork.png' />
 
 		<itunes:author>Dustin Yost</itunes:author>
 		<itunes:owner>
@@ -32,9 +32,9 @@
             <itunes:subtitle>A new party finds themselves in the hold of a pirate ship.</itunes:subtitle>
 			<itunes:summary>A new party finds themselves in the hold of a pirate ship.</itunes:summary>
 			<itunes:author>Dustin Yost</itunes:author>
-			<guid>https://drive.google.com/uc?export=download&amp;confirm=drIA&amp;id=18pvWqs4gp7LoIxE4cup3WDKEnb2PNlOg</guid>
-			<link>https://drive.google.com/uc?export=download&amp;confirm=drIA&amp;id=18pvWqs4gp7LoIxE4cup3WDKEnb2PNlOg</link>
-			<enclosure type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;confirm=drIA&amp;id=18pvWqs4gp7LoIxE4cup3WDKEnb2PNlOg" length="270825002" />
+			<guid>FindingFootingInNeverwinter</guid>
+			<link>https://archive.org/details/ceruleanrealms-c1/01+Finding+Footing+in+Neverwinter.mp3</link>
+			<enclosure type="audio/mpeg" url="https://ia601407.us.archive.org/34/items/ceruleanrealms-c1/01%20Finding%20Footing%20in%20Neverwinter.mp3" length="270825002" />
 			<pubDate>September 14 2019 00:19:00 EST</pubDate>
 			<itunes:duration>04:47:08</itunes:duration>
 			<itunes:order>1</itunes:order>
@@ -46,9 +46,9 @@
             <itunes:subtitle>Dekom, Dorian, Lo'Liko, and Minow explore the sewers of Neverwinter.</itunes:subtitle>
 			<itunes:summary>Dekom, Dorian, Lo'Liko, and Minow explore the sewers of Neverwinter.</itunes:summary>
 			<itunes:author>Dustin Yost</itunes:author>
-			<guid>https://drive.google.com/uc?export=download&amp;confirm=drIA&amp;id=1RLRvDIEGIfkS2UioamPTiAC6_cKP9Kyr</guid>
-			<link>https://drive.google.com/uc?export=download&amp;confirm=drIA&amp;id=1RLRvDIEGIfkS2UioamPTiAC6_cKP9Kyr</link>
-			<enclosure type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;confirm=drIA&amp;id=1RLRvDIEGIfkS2UioamPTiAC6_cKP9Kyr" length="339825911" />
+			<guid>SewerSpelunking</guid>
+			<link>https://archive.org/details/ceruleanrealms-c1/02+Sewer+Spelunking.mp3</link>
+			<enclosure type="audio/mpeg" url="https://ia601407.us.archive.org/34/items/ceruleanrealms-c1/02%20Sewer%20Spelunking.mp3" length="339825911" />
 			<pubDate>September 21 2019 00:19:00 EST</pubDate>
 			<itunes:duration>03:54:07</itunes:duration>
 			<itunes:order>2</itunes:order>
@@ -60,9 +60,9 @@
             <itunes:subtitle>Dekom, Dorian, Lo'Liko, and Minow begin their journey towards Phandalin.</itunes:subtitle>
 			<itunes:summary>Dekom, Dorian, Lo'Liko, and Minow begin their journey towards Phandalin.</itunes:summary>
 			<itunes:author>Dustin Yost</itunes:author>
-			<guid>https://drive.google.com/uc?export=download&amp;confirm=drIA&amp;id=140kdp5RXZDIRO1oUb3QFPAxXPGUWXpA0</guid>
-			<link>https://drive.google.com/uc?export=download&amp;confirm=drIA&amp;id=140kdp5RXZDIRO1oUb3QFPAxXPGUWXpA0</link>
-			<enclosure type="audio/mpeg" url="https://drive.google.com/uc?export=download&amp;confirm=drIA&amp;id=140kdp5RXZDIRO1oUb3QFPAxXPGUWXpA0" length="341156551" />
+			<guid>ATrekToPhandalin</guid>
+			<link>https://archive.org/details/ceruleanrealms-c1/03+A+Trek+To+Phandalin.mp3</link>
+			<enclosure type="audio/mpeg" url="https://ia601407.us.archive.org/34/items/ceruleanrealms-c1/03%20A%20Trek%20To%20Phandalin.mp3" length="341156551" />
 			<pubDate>September 28 2019 00:19:00 EST</pubDate>
 			<itunes:duration>04:00:22</itunes:duration>
 			<itunes:order>3</itunes:order>
