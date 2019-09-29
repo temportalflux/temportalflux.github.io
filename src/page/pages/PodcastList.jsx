@@ -1,5 +1,5 @@
 import React from 'react';
-import { NavLink, withRouter } from "react-router-dom";
+import { withRouter } from "react-router-dom";
 import { Page } from "../Page";
 import { Header } from "semantic-ui-react";
 import FEEDS from "../../podcasts";
