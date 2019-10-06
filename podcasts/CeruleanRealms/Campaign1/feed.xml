@@ -26,32 +26,18 @@
 		<itunes:explicit>yes</itunes:explicit>
 		
 		<item>
-			<guid>C1E001</guid>
-			<title>Finding Footing in Neverwinter</title>
-			<itunes:title>Finding Footing in Neverwinter</itunes:title>
-			<description>A new party finds themselves in the hold of a pirate ship.</description>
-			<itunes:subtitle>A new party finds themselves in the hold of a pirate ship.</itunes:subtitle>
-			<itunes:summary>A new party finds themselves in the hold of a pirate ship.</itunes:summary>
+			<guid>C1E004</guid>
+			<title>The Cave in the Hill</title>
+			<itunes:title>The Cave in the Hill</itunes:title>
+			<description></description>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary></itunes:summary>
 			<itunes:author>Dustin Yost</itunes:author>
-			<link>https://archive.org/details/ceruleanrealms-c1/01+Finding+Footing+in+Neverwinter.mp3</link>
-			<enclosure type="audio/mpeg" url="https://ia601407.us.archive.org/34/items/ceruleanrealms-c1/01%20Finding%20Footing%20in%20Neverwinter.mp3" length="270825002" />
-			<pubDate>September 14 2019 00:19:00 EST</pubDate>
-			<itunes:duration>04:47:08</itunes:duration>
-			<itunes:order>1</itunes:order>
-		</item>
-		<item>
-			<guid>C1E002</guid>
-			<title>Sewer Spelunking</title>
-			<itunes:title>Sewer Spelunking</itunes:title>
-			<description>Dekom, Dorian, Lo'Liko, and Minow explore the sewers of Neverwinter.</description>
-			<itunes:subtitle>Dekom, Dorian, Lo'Liko, and Minow explore the sewers of Neverwinter.</itunes:subtitle>
-			<itunes:summary>Dekom, Dorian, Lo'Liko, and Minow explore the sewers of Neverwinter.</itunes:summary>
-			<itunes:author>Dustin Yost</itunes:author>
-			<link>https://archive.org/details/ceruleanrealms-c1/02+Sewer+Spelunking.mp3</link>
-			<enclosure type="audio/mpeg" url="https://ia601407.us.archive.org/34/items/ceruleanrealms-c1/02%20Sewer%20Spelunking.mp3" length="339825911" />
-			<pubDate>September 21 2019 00:19:00 EST</pubDate>
-			<itunes:duration>03:54:07</itunes:duration>
-			<itunes:order>2</itunes:order>
+			<link>https://archive.org/details/ceruleanrealms-c1/04+The+Cave+in+the+Hill.mp3</link>
+			<enclosure type="audio/mpeg" url="https://ia601407.us.archive.org/34/items/ceruleanrealms-c1/04%20The%20Cave%20in%20the%20Hill.mp3" length="313620590" />
+			<pubDate>October 5 2019 20:00:00 EST</pubDate>
+			<itunes:duration>03:41:22</itunes:duration>
+			<itunes:order>4</itunes:order>
 		</item>
 		<item>
 			<guid>C1E003</guid>
@@ -63,9 +49,37 @@
 			<itunes:author>Dustin Yost</itunes:author>
 			<link>https://archive.org/details/ceruleanrealms-c1/03+A+Trek+To+Phandalin.mp3</link>
 			<enclosure type="audio/mpeg" url="https://ia601407.us.archive.org/34/items/ceruleanrealms-c1/03%20A%20Trek%20To%20Phandalin.mp3" length="341156551" />
-			<pubDate>September 28 2019 00:19:00 EST</pubDate>
+			<pubDate>September 28 2019 19:00:00 EST</pubDate>
 			<itunes:duration>04:00:22</itunes:duration>
 			<itunes:order>3</itunes:order>
+		</item>
+		<item>
+			<guid>C1E002</guid>
+			<title>Sewer Spelunking</title>
+			<itunes:title>Sewer Spelunking</itunes:title>
+			<description>Dekom, Dorian, Lo'Liko, and Minow explore the sewers of Neverwinter.</description>
+			<itunes:subtitle>Dekom, Dorian, Lo'Liko, and Minow explore the sewers of Neverwinter.</itunes:subtitle>
+			<itunes:summary>Dekom, Dorian, Lo'Liko, and Minow explore the sewers of Neverwinter.</itunes:summary>
+			<itunes:author>Dustin Yost</itunes:author>
+			<link>https://archive.org/details/ceruleanrealms-c1/02+Sewer+Spelunking.mp3</link>
+			<enclosure type="audio/mpeg" url="https://ia601407.us.archive.org/34/items/ceruleanrealms-c1/02%20Sewer%20Spelunking.mp3" length="339825911" />
+			<pubDate>September 21 2019 19:00:00 EST</pubDate>
+			<itunes:duration>03:54:07</itunes:duration>
+			<itunes:order>2</itunes:order>
+		</item>
+		<item>
+			<guid>C1E001</guid>
+			<title>Finding Footing in Neverwinter</title>
+			<itunes:title>Finding Footing in Neverwinter</itunes:title>
+			<description>A new party finds themselves in the hold of a pirate ship.</description>
+			<itunes:subtitle>A new party finds themselves in the hold of a pirate ship.</itunes:subtitle>
+			<itunes:summary>A new party finds themselves in the hold of a pirate ship.</itunes:summary>
+			<itunes:author>Dustin Yost</itunes:author>
+			<link>https://archive.org/details/ceruleanrealms-c1/01+Finding+Footing+in+Neverwinter.mp3</link>
+			<enclosure type="audio/mpeg" url="https://ia601407.us.archive.org/34/items/ceruleanrealms-c1/01%20Finding%20Footing%20in%20Neverwinter.mp3" length="270825002" />
+			<pubDate>September 14 2019 19:00:00 EST</pubDate>
+			<itunes:duration>04:47:08</itunes:duration>
+			<itunes:order>1</itunes:order>
 		</item>
 
 	</channel>
