@@ -26,6 +26,20 @@
 		<itunes:explicit>yes</itunes:explicit>
 		
 		<item>
+			<guid>C1E005</guid>
+			<title>The Cave Part 2: New "Friends"</title>
+			<itunes:title>The Cave Part 2: New "Friends"</itunes:title>
+			<description>After defeating the leader in the goblin hideout, the unlikely group kills the remaining goblins and saves a new "friend".</description>
+			<itunes:subtitle>After defeating the leader in the goblin hideout, the unlikely group kills the remaining goblins and saves a new "friend".</itunes:subtitle>
+			<itunes:summary>After defeating the leader in the goblin hideout, the unlikely group kills the remaining goblins and saves a new "friend".</itunes:summary>
+			<itunes:author>Dustin Yost</itunes:author>
+			<link>https://archive.org/details/ceruleanrealms-c1/05+The+Cave+Part+2+New+Friends.mp3</link>
+			<enclosure type="audio/mpeg" url="https://ia601407.us.archive.org/34/items/ceruleanrealms-c1/05%20The%20Cave%20Part%202%20New%20Friends.mp3" length="372300408" />
+			<pubDate>October 19 2019 20:00:00 EST</pubDate>
+			<itunes:duration>04:14:05</itunes:duration>
+			<itunes:order>4</itunes:order>
+		</item>
+		<item>
 			<guid>C1E004</guid>
 			<title>The Cave in the Hill</title>
 			<itunes:title>The Cave in the Hill</itunes:title>
