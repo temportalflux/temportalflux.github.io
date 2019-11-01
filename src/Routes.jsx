@@ -36,6 +36,7 @@ export const ROUTES = [
     {
         path: '/podcasts',
         component: Page.PodcastList,
+        exact: true,
         headerItem: {content: 'Podcasts', name: 'Podcasts'}
     },
     /* REEL DISABLED
@@ -60,7 +61,15 @@ export const ROUTES = [
     ...(FEEDS.map((info) => {
         return {
             path: `/podcasts/${info.path}`,
+            exact: true,
             render: () => <Page.Podcast {...info} />,
+        };
+    })),
+    ...(FEEDS.map((info) => {
+        return {
+            path: `/podcasts/${info.xml}`,
+            exact: true,
+            render: () => <Page.PodcastFeed {...info} />,
         };
     })),
     {

@@ -1,8 +1,6 @@
 import React from 'react';
-import { Page } from "../Page";
-import {Container, Header} from "semantic-ui-react";
 
-export class Podcast extends React.Component
+export class PodcastFeed extends React.Component
 {
 
 	constructor(props)
@@ -27,19 +25,14 @@ export class Podcast extends React.Component
 
 	async loadFeed()
 	{
-		let response = await fetch(`${process.env.PUBLIC_URL}/podcasts/${this.props.xml}`);
+		let response = await fetch(`${process.env.PUBLIC_URL}/podcasts/${this.props.path}`);
 		let xml = await response.text();
 		this.setState({ data: xml });
 	}
 
 	render()
 	{
-		console.log(this.state.data);
-		return (
-			<Page>
-				TODO THIS NEEDS TO BE FILLED IN
-			</Page>
-		);
+		return this.state.data;
 	}
 
 }

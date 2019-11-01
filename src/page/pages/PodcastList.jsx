@@ -15,9 +15,9 @@ class PodcastList extends React.Component
 				<Header content={'Podcasts'} />
 				{FEEDS.map((info) => (
 					<Header key={shortid.generate()}>
-						{info.title}
+						<a href={`/podcasts/${info.path}`}>{info.title}</a>
 						<Header.Subheader>
-							<a href={`/podcasts/${info.path}`} target='_blank'>RSS Feed</a> - <a href={info.source} target='_blank'>File source</a>
+							<a href={`/podcasts/${info.xml}`} target='_blank'>RSS Feed</a> - <a href={info.source} target='_blank'>File source</a>
 						</Header.Subheader>
 					</Header>
 				))}
