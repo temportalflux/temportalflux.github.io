@@ -26,6 +26,20 @@
 		<itunes:explicit>yes</itunes:explicit>
 		
 		<item>
+			<guid>C1E006</guid>
+			<title>Mystery and Spooks</title>
+			<itunes:title>Mystery and Spooks</itunes:title>
+			<description>The party gets sucked into exploring a haunted manor on the outskirts of Phandalin, and hijinks ensure.</description>
+			<itunes:subtitle>The party gets sucked into exploring a haunted manor on the outskirts of Phandalin, and hijinks ensure.</itunes:subtitle>
+			<itunes:summary>The party gets sucked into exploring a haunted manor on the outskirts of Phandalin, and hijinks ensure.</itunes:summary>
+			<itunes:author>Dustin Yost</itunes:author>
+			<link>https://archive.org/details/ceruleanrealms-c1/06+Mystery+and+Spooks.mp3</link>
+			<enclosure type="audio/mpeg" url="https://ia601407.us.archive.org/34/items/ceruleanrealms-c1/06%20Mystery%20and%20Spooks.mp3" length="450257797" />
+			<pubDate>October 26 2019 20:00:00 EST</pubDate>
+			<itunes:duration>05:08:47</itunes:duration>
+			<itunes:order>6</itunes:order>
+		</item>
+		<item>
 			<guid>C1E005</guid>
 			<title>The Cave Part 2: New "Friends"</title>
 			<itunes:title>The Cave Part 2: New "Friends"</itunes:title>
