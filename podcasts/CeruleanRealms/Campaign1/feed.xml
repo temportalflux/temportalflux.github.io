@@ -26,6 +26,20 @@
 		<itunes:explicit>yes</itunes:explicit>
 		
 		<item>
+			<guid>C1E007</guid>
+			<title>Guardians of Dwaine</title>
+			<itunes:title>Guardians of Dwaine</itunes:title>
+			<description>Dekom, Dorian, Lo'Liko, and Minow take some downtime to collect themselves in Phandalin, where they meet Piddic and some residents of the town.</description>
+			<itunes:subtitle>Dekom, Dorian, Lo'Liko, and Minow take some downtime to collect themselves in Phandalin, where they meet Piddic and some residents of the town.</itunes:subtitle>
+			<itunes:summary>Dekom, Dorian, Lo'Liko, and Minow take some downtime to collect themselves in Phandalin, where they meet Piddic and some residents of the town.</itunes:summary>
+			<itunes:author>Dustin Yost</itunes:author>
+			<link>https://archive.org/details/ceruleanrealms-c1/07+Guardians+of+Dwaine.mp3</link>
+			<enclosure type="audio/mpeg" url="https://ia601407.us.archive.org/34/items/ceruleanrealms-c1/07%20Guardians%20of%20Dwaine.mp3" length="297876854" />
+			<pubDate>November 2 2019 17:00:00 EST</pubDate>
+			<itunes:duration>03:23:29</itunes:duration>
+			<itunes:order>7</itunes:order>
+		</item>
+		<item>
 			<guid>C1E006</guid>
 			<title>Mystery and Spooks</title>
 			<itunes:title>Mystery and Spooks</itunes:title>
@@ -35,7 +49,7 @@
 			<itunes:author>Dustin Yost</itunes:author>
 			<link>https://archive.org/details/ceruleanrealms-c1/06+Mystery+and+Spooks.mp3</link>
 			<enclosure type="audio/mpeg" url="https://ia601407.us.archive.org/34/items/ceruleanrealms-c1/06%20Mystery%20and%20Spooks.mp3" length="450257797" />
-			<pubDate>October 26 2019 20:00:00 EST</pubDate>
+			<pubDate>October 26 2019 20:00:00 EDT</pubDate>
 			<itunes:duration>05:08:47</itunes:duration>
 			<itunes:order>6</itunes:order>
 		</item>
@@ -49,7 +63,7 @@
 			<itunes:author>Dustin Yost</itunes:author>
 			<link>https://archive.org/details/ceruleanrealms-c1/05+The+Cave+Part+2+New+Friends.mp3</link>
 			<enclosure type="audio/mpeg" url="https://ia601407.us.archive.org/34/items/ceruleanrealms-c1/05%20The%20Cave%20Part%202%20New%20Friends.mp3" length="372300408" />
-			<pubDate>October 19 2019 20:00:00 EST</pubDate>
+			<pubDate>October 19 2019 20:00:00 EDT</pubDate>
 			<itunes:duration>04:14:05</itunes:duration>
 			<itunes:order>5</itunes:order>
 		</item>
@@ -63,7 +77,7 @@
 			<itunes:author>Dustin Yost</itunes:author>
 			<link>https://archive.org/details/ceruleanrealms-c1/04+The+Cave+in+the+Hill.mp3</link>
 			<enclosure type="audio/mpeg" url="https://ia601407.us.archive.org/34/items/ceruleanrealms-c1/04%20The%20Cave%20in%20the%20Hill.mp3" length="313620590" />
-			<pubDate>October 5 2019 20:00:00 EST</pubDate>
+			<pubDate>October 5 2019 20:00:00 EDT</pubDate>
 			<itunes:duration>03:41:22</itunes:duration>
 			<itunes:order>4</itunes:order>
 		</item>
@@ -77,7 +91,7 @@
 			<itunes:author>Dustin Yost</itunes:author>
 			<link>https://archive.org/details/ceruleanrealms-c1/03+A+Trek+To+Phandalin.mp3</link>
 			<enclosure type="audio/mpeg" url="https://ia601407.us.archive.org/34/items/ceruleanrealms-c1/03%20A%20Trek%20To%20Phandalin.mp3" length="341156551" />
-			<pubDate>September 28 2019 19:00:00 EST</pubDate>
+			<pubDate>September 28 2019 19:00:00 EDT</pubDate>
 			<itunes:duration>04:00:22</itunes:duration>
 			<itunes:order>3</itunes:order>
 		</item>
@@ -91,7 +105,7 @@
 			<itunes:author>Dustin Yost</itunes:author>
 			<link>https://archive.org/details/ceruleanrealms-c1/02+Sewer+Spelunking.mp3</link>
 			<enclosure type="audio/mpeg" url="https://ia601407.us.archive.org/34/items/ceruleanrealms-c1/02%20Sewer%20Spelunking.mp3" length="339825911" />
-			<pubDate>September 21 2019 19:00:00 EST</pubDate>
+			<pubDate>September 21 2019 19:00:00 EDT</pubDate>
 			<itunes:duration>03:54:07</itunes:duration>
 			<itunes:order>2</itunes:order>
 		</item>
@@ -105,7 +119,7 @@
 			<itunes:author>Dustin Yost</itunes:author>
 			<link>https://archive.org/details/ceruleanrealms-c1/01+Finding+Footing+in+Neverwinter.mp3</link>
 			<enclosure type="audio/mpeg" url="https://ia601407.us.archive.org/34/items/ceruleanrealms-c1/01%20Finding%20Footing%20in%20Neverwinter.mp3" length="270825002" />
-			<pubDate>September 14 2019 19:00:00 EST</pubDate>
+			<pubDate>September 14 2019 19:00:00 EDT</pubDate>
 			<itunes:duration>04:47:08</itunes:duration>
 			<itunes:order>1</itunes:order>
 		</item>
