@@ -58,7 +58,7 @@ export const ROUTES = [
             render: () => <Page.Post {...info} />,
         };
     })),
-    ...(FEEDS.map((info) => {
+    ...(FEEDS.filter((info) => info.path !== undefined).map((info) => {
         return {
             path: `/podcasts/${info.path}`,
             exact: true,

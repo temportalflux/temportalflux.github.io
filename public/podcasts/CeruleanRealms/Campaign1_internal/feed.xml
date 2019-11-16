@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+	<channel>
+		<title>Cerulean Realms: Campaign 1</title>
+		<link>https://temportalflux.github.io/podcasts</link>
+		<atom:link rel="self" type="application/rss+xml" href="https://temportalflux.github.io/podcasts" />
+		<language>en-us</language>
+		<copyright>℗ &amp; © 2019 Dustin Yost &amp; Friends</copyright>
+
+		<itunes:subtitle>DnD 5e Podcast for a home game to share with family and friends.</itunes:subtitle>
+		<itunes:summary>A DnD podcast for a home game following an odd bunch of adventurers in a homebrew world.</itunes:summary>
+		<description>A DnD podcast for a home game following an odd bunch of adventurers in a homebrew world.</description>
+
+		<itunes:image href='https://ia601407.us.archive.org/34/items/ceruleanrealms-c1/artwork.png' />
+
+		<itunes:author>Dustin Yost</itunes:author>
+		<itunes:owner>
+			<itunes:name>Dustin Yost</itunes:name>
+			<itunes:email>dustin.yost.t@gmail.com</itunes:email>
+		</itunes:owner>
+
+		<itunes:category text="Leisure">
+			<itunes:category text="Games"/>
+		</itunes:category>
+
+		<itunes:explicit>yes</itunes:explicit>
+		
+		<item>
+			<guid>C1E008</guid>
+			<title>The Redbrand Distraction</title>
+			<itunes:title>The Redbrand Distraction</itunes:title>
+			<description></description>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary></itunes:summary>
+			<itunes:author>Dustin Yost</itunes:author>
+			<link>https://archive.org/details/ceruleanrealms-c1/session-08_internal.mp3</link>
+			<enclosure type="audio/mpeg" url="https://ia601407.us.archive.org/34/items/ceruleanrealms-c1/session-08_internal.mp3" length="500564627" />
+			<pubDate>November 9 2019 19:00:00 EST</pubDate>
+			<itunes:duration>05:49:55</itunes:duration>
+			<itunes:order>8</itunes:order>
+		</item>
+		<item>
+			<guid>C1E007</guid>
+			<title>Guardians of Dwaine</title>
+			<itunes:title>Guardians of Dwaine</itunes:title>
+			<description>Dekom, Dorian, Lo'Liko, and Minow take some downtime to collect themselves in Phandalin, where they meet Piddic and some residents of the town.</description>
+			<itunes:subtitle>Dekom, Dorian, Lo'Liko, and Minow take some downtime to collect themselves in Phandalin, where they meet Piddic and some residents of the town.</itunes:subtitle>
+			<itunes:summary>Dekom, Dorian, Lo'Liko, and Minow take some downtime to collect themselves in Phandalin, where they meet Piddic and some residents of the town.</itunes:summary>
+			<itunes:author>Dustin Yost</itunes:author>
+			<link>https://archive.org/details/ceruleanrealms-c1/session-07_internal.mp3</link>
+			<enclosure type="audio/mpeg" url="https://ia601407.us.archive.org/34/items/ceruleanrealms-c1/session-07_internal.mp3" length="297876854" />
+			<pubDate>November 2 2019 17:00:00 EST</pubDate>
+			<itunes:duration>03:23:29</itunes:duration>
+			<itunes:order>7</itunes:order>
+		</item>
+		<item>
+			<guid>C1E006</guid>
+			<title>Mystery and Spooks</title>
+			<itunes:title>Mystery and Spooks</itunes:title>
+			<description>The party gets sucked into exploring a haunted manor on the outskirts of Phandalin, and hijinks ensure.</description>
+			<itunes:subtitle>The party gets sucked into exploring a haunted manor on the outskirts of Phandalin, and hijinks ensure.</itunes:subtitle>
+			<itunes:summary>The party gets sucked into exploring a haunted manor on the outskirts of Phandalin, and hijinks ensure.</itunes:summary>
+			<itunes:author>Dustin Yost</itunes:author>
+			<link>https://archive.org/details/ceruleanrealms-c1/session-06_internal.mp3</link>
+			<enclosure type="audio/mpeg" url="https://ia601407.us.archive.org/34/items/ceruleanrealms-c1/session-06_internal.mp3" length="450257797" />
+			<pubDate>October 26 2019 20:00:00 EDT</pubDate>
+			<itunes:duration>05:08:47</itunes:duration>
+			<itunes:order>6</itunes:order>
+		</item>
+		<item>
+			<guid>C1E005</guid>
+			<title>The Cave Part 2: New "Friends"</title>
+			<itunes:title>The Cave Part 2: New "Friends"</itunes:title>
+			<description>After defeating the leader in the goblin hideout, the unlikely group kills the remaining goblins and saves a new "friend".</description>
+			<itunes:subtitle>After defeating the leader in the goblin hideout, the unlikely group kills the remaining goblins and saves a new "friend".</itunes:subtitle>
+			<itunes:summary>After defeating the leader in the goblin hideout, the unlikely group kills the remaining goblins and saves a new "friend".</itunes:summary>
+			<itunes:author>Dustin Yost</itunes:author>
+			<link>https://archive.org/details/ceruleanrealms-c1/session-05_internal.mp3</link>
+			<enclosure type="audio/mpeg" url="https://ia601407.us.archive.org/34/items/ceruleanrealms-c1/session-05_internal.mp3" length="372300408" />
+			<pubDate>October 19 2019 20:00:00 EDT</pubDate>
+			<itunes:duration>04:14:05</itunes:duration>
+			<itunes:order>5</itunes:order>
+		</item>
+		<item>
+			<guid>C1E004</guid>
+			<title>The Cave in the Hill</title>
+			<itunes:title>The Cave in the Hill</itunes:title>
+			<description>The squad takes on the goblins of the Cragmaw tribe.</description>
+			<itunes:subtitle>The squad takes on the goblins of the Cragmaw tribe.</itunes:subtitle>
+			<itunes:summary>The squad takes on the goblins of the Cragmaw tribe.</itunes:summary>
+			<itunes:author>Dustin Yost</itunes:author>
+			<link>https://archive.org/details/ceruleanrealms-c1/session-04_internal.mp3</link>
+			<enclosure type="audio/mpeg" url="https://ia601407.us.archive.org/34/items/ceruleanrealms-c1/session-04_internal.mp3" length="313620590" />
+			<pubDate>October 5 2019 20:00:00 EDT</pubDate>
+			<itunes:duration>03:41:22</itunes:duration>
+			<itunes:order>4</itunes:order>
+		</item>
+		<item>
+			<guid>C1E003</guid>
+			<title>A Trek To Phandalin</title>
+			<itunes:title>A Trek To Phandalin</itunes:title>
+			<description>Dekom, Dorian, Lo'Liko, and Minow begin their journey towards Phandalin.</description>
+			<itunes:subtitle>Dekom, Dorian, Lo'Liko, and Minow begin their journey towards Phandalin.</itunes:subtitle>
+			<itunes:summary>Dekom, Dorian, Lo'Liko, and Minow begin their journey towards Phandalin.</itunes:summary>
+			<itunes:author>Dustin Yost</itunes:author>
+			<link>https://archive.org/details/ceruleanrealms-c1/session-03_internal.mp3</link>
+			<enclosure type="audio/mpeg" url="https://ia601407.us.archive.org/34/items/ceruleanrealms-c1/session-03_internal.mp3" length="341156551" />
+			<pubDate>September 28 2019 19:00:00 EDT</pubDate>
+			<itunes:duration>04:00:22</itunes:duration>
+			<itunes:order>3</itunes:order>
+		</item>
+		<item>
+			<guid>C1E002</guid>
+			<title>Sewer Spelunking</title>
+			<itunes:title>Sewer Spelunking</itunes:title>
+			<description>Dekom, Dorian, Lo'Liko, and Minow explore the sewers of Neverwinter.</description>
+			<itunes:subtitle>Dekom, Dorian, Lo'Liko, and Minow explore the sewers of Neverwinter.</itunes:subtitle>
+			<itunes:summary>Dekom, Dorian, Lo'Liko, and Minow explore the sewers of Neverwinter.</itunes:summary>
+			<itunes:author>Dustin Yost</itunes:author>
+			<link>https://archive.org/details/ceruleanrealms-c1/session-02_internal.mp3</link>
+			<enclosure type="audio/mpeg" url="https://ia601407.us.archive.org/34/items/session-02_internal.mp3" length="339825911" />
+			<pubDate>September 21 2019 19:00:00 EDT</pubDate>
+			<itunes:duration>03:54:07</itunes:duration>
+			<itunes:order>2</itunes:order>
+		</item>
+		<item>
+			<guid>C1E001</guid>
+			<title>Finding Footing in Neverwinter</title>
+			<itunes:title>Finding Footing in Neverwinter</itunes:title>
+			<description>A new party finds themselves in the hold of a pirate ship.</description>
+			<itunes:subtitle>A new party finds themselves in the hold of a pirate ship.</itunes:subtitle>
+			<itunes:summary>A new party finds themselves in the hold of a pirate ship.</itunes:summary>
+			<itunes:author>Dustin Yost</itunes:author>
+			<link>https://archive.org/details/ceruleanrealms-c1/session-01_internal.mp3</link>
+			<enclosure type="audio/mpeg" url="https://ia601407.us.archive.org/34/items/ceruleanrealms-c1/session-01_internal.mp3" length="270829109" />
+			<pubDate>September 14 2019 19:00:00 EDT</pubDate>
+			<itunes:duration>04:47:08</itunes:duration>
+			<itunes:order>1</itunes:order>
+		</item>
+
+	</channel>
+</rss>
