@@ -13,7 +13,7 @@ class PodcastList extends React.Component
 		return (
 			<Page style={{ textAlign: "-webkit-center" }}>
 				<Header content={'Podcasts'} />
-				{FEEDS.map((info) => (
+				{FEEDS.filter((info) => info.path !== undefined).map((info) => (
 					<Header key={shortid.generate()}>
 						<a href={`/podcasts/${info.path}`}>{info.title}</a>
 						<Header.Subheader>
