@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 	<channel>
-		<title>Cerulean Realms: Campaign 1</title>
+		<title>Cerulean Realms: Campaign 1 (private)</title>
 		<link>https://temportalflux.github.io/podcasts</link>
 		<atom:link rel="self" type="application/rss+xml" href="https://temportalflux.github.io/podcasts" />
 		<language>en-us</language>
@@ -11,7 +11,7 @@
 		<itunes:summary>A DnD podcast for a home game following an odd bunch of adventurers in a homebrew world.</itunes:summary>
 		<description>A DnD podcast for a home game following an odd bunch of adventurers in a homebrew world.</description>
 
-		<itunes:image href='https://ia601407.us.archive.org/34/items/ceruleanrealms-c1-private/artwork.png' />
+		<itunes:image href='https://ia601407.us.archive.org/34/items/ceruleanrealms-c1/artwork.png' />
 
 		<itunes:author>Dustin Yost</itunes:author>
 		<itunes:owner>
@@ -29,7 +29,7 @@
 			<guid>C1E008</guid>
 			<title>The Redbrand Distraction</title>
 			<itunes:title>The Redbrand Distraction</itunes:title>
-			<descriptiThe Guardians of Dwaine get distracted by events in Phandalin and are otherwise prevented from leaving the town while they take care of some local business.</description>
+			<description>The Guardians of Dwaine get distracted by events in Phandalin and are otherwise prevented from leaving the town while they take care of some local business.</description>
 			<itunes:subtitle>The Guardians of Dwaine get distracted by events in Phandalin and are otherwise prevented from leaving the town while they take care of some local business.</itunes:subtitle>
 			<itunes:summary>The Guardians of Dwaine get distracted by events in Phandalin and are otherwise prevented from leaving the town while they take care of some local business.</itunes:summary>
 			<itunes:author>Dustin Yost</itunes:author>
