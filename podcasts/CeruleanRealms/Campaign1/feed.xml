@@ -26,6 +26,20 @@
 		<itunes:explicit>yes</itunes:explicit>
 		
 		<item>
+			<guid>C1E009</guid>
+			<title>Prisoners of Glasstaff</title>
+			<itunes:title>Prisoners of Glasstaff</itunes:title>
+			<description>Returning to the adventure, the party gathers their wits and continue exploring the basement of Trescendar Manor.</description>
+			<itunes:subtitle>Returning to the adventure, the party gathers their wits and continue exploring the basement of Trescendar Manor.</itunes:subtitle>
+			<itunes:summary>Returning to the adventure, the party gathers their wits and continue exploring the basement of Trescendar Manor.</itunes:summary>
+			<itunes:author>Dustin Yost</itunes:author>
+			<link>https://archive.org/details/ceruleanrealms-c1/09+Prisoners+of+Glasstaff.mp3</link>
+			<enclosure type="audio/mpeg" url="https://ia601407.us.archive.org/34/items/ceruleanrealms-c1/09%20Prisoners%20of%20Glasstaff.mp3" length="377630891" />
+			<pubDate>November 23 2019 19:00:00 EST</pubDate>
+			<itunes:duration>4:23:00</itunes:duration>
+			<itunes:order>9</itunes:order>
+		</item>
+		<item>
 			<guid>C1E008</guid>
 			<title>The Redbrand Distraction</title>
 			<itunes:title>The Redbrand Distraction</itunes:title>
