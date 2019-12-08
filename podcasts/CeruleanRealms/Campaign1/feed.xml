@@ -26,6 +26,20 @@
 		<itunes:explicit>yes</itunes:explicit>
 		
 		<item>
+			<guid>C1E010</guid>
+			<title>Interrogating a Wizard</title>
+			<itunes:title>Interrogating a Wizard</itunes:title>
+			<description>Efforts are made to interrogate an evil wizard, and the Guardians of Dwaine meet another traveller and head north in search of another ally.</description>
+			<itunes:subtitle>Efforts are made to interrogate an evil wizard, and the Guardians of Dwaine meet another traveller and head north in search of another ally.</itunes:subtitle>
+			<itunes:summary>Efforts are made to interrogate an evil wizard, and the Guardians of Dwaine meet another traveller and head north in search of another ally.</itunes:summary>
+			<itunes:author>Dustin Yost</itunes:author>
+			<link>https://archive.org/details/ceruleanrealms-c1/10+Interrogating+a+Wizard.mp3</link>
+			<enclosure type="audio/mpeg" url="https://ia601407.us.archive.org/34/items/ceruleanrealms-c1/10%20Interrogating%20a%20Wizard.mp3" length="305831435" />
+			<pubDate>December 07 2019 22:00:00 EST</pubDate>
+			<itunes:duration>3:29:35</itunes:duration>
+			<itunes:order>10</itunes:order>
+		</item>
+		<item>
 			<guid>C1E009</guid>
 			<title>Prisoners of Glasstaff</title>
 			<itunes:title>Prisoners of Glasstaff</itunes:title>
