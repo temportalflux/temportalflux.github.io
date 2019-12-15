@@ -26,6 +26,20 @@
 		<itunes:explicit>yes</itunes:explicit>
 		
 		<item>
+			<guid>C1E011</guid>
+			<title>A Spider's Burrough</title>
+			<itunes:title>A Spider's Burrough</itunes:title>
+			<description>The Guardians of Dwaine fight a ginormous spider and spend their first night in the Neverwinter Wood.</description>
+			<itunes:subtitle>The Guardians of Dwaine fight a ginormous spider and spend their first night in the Neverwinter Wood.</itunes:subtitle>
+			<itunes:summary>The Guardians of Dwaine fight a ginormous spider and spend their first night in the Neverwinter Wood.</itunes:summary>
+			<itunes:author>Dustin Yost</itunes:author>
+			<link>https://archive.org/details/ceruleanrealms-c1/session-11_internal.mp3</link>
+			<enclosure type="audio/mpeg" url="https://ia601402.us.archive.org/3/items/ceruleanrealms-c1-private/session-11_internal.mp3" length="421622888" />
+			<pubDate>December 14 2019 21:00:00 EST</pubDate>
+			<itunes:duration>4:54:58</itunes:duration>
+			<itunes:order>11</itunes:order>
+		</item>
+		<item>
 			<guid>C1E010</guid>
 			<title>Interrogating a Wizard</title>
 			<itunes:title>Interrogating a Wizard</itunes:title>
