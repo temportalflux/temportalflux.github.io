@@ -26,6 +26,34 @@
 		<itunes:explicit>yes</itunes:explicit>
 		
 		<item>
+			<guid>C1E013</guid>
+			<title>Dragons and Ruins and Cults Oh My</title>
+			<itunes:title>Dragons and Ruins and Cults Oh My</itunes:title>
+			<description>The Guardians(?) find their way into Thundertree only to realize there are other forces afoot in the ruins.</description>
+			<itunes:subtitle>The Guardians(?) find their way into Thundertree only to realize there are other forces afoot in the ruins.</itunes:subtitle>
+			<itunes:summary>The Guardians(?) find their way into Thundertree only to realize there are other forces afoot in the ruins.</itunes:summary>
+			<itunes:author>Dustin Yost</itunes:author>
+			<link>https://archive.org/details/ceruleanrealms-c1/13+Dragons+and+Ruins+and+Cults+Oh+My.mp3</link>
+			<enclosure type="audio/mpeg" url="https://ia903104.us.archive.org/27/items/ceruleanrealms-c1/13%20Dragons%20and%20Ruins%20and%20Cults%20Oh%20My.mp3" length="277330649" />
+			<pubDate>December 18 2019 20:00:00 EST</pubDate>
+			<itunes:duration>3:11:44</itunes:duration>
+			<itunes:order>13</itunes:order>
+		</item>
+		<item>
+			<guid>C1E012</guid>
+			<title>A Hike Through the Woods</title>
+			<itunes:title>A Hike Through the Woods</itunes:title>
+			<description>We find the party of 7 hiking through the Neverwinter Wood and looking for the mysterious ruins of Thundertree, running into various creatures and complications along the way.</description>
+			<itunes:subtitle>We find the party of 7 hiking through the Neverwinter Wood and looking for the mysterious ruins of Thundertree, running into various creatures and complications along the way.</itunes:subtitle>
+			<itunes:summary>We find the party of 7 hiking through the Neverwinter Wood and looking for the mysterious ruins of Thundertree, running into various creatures and complications along the way.</itunes:summary>
+			<itunes:author>Dustin Yost</itunes:author>
+			<link>https://archive.org/details/ceruleanrealms-c1/12+A+Hike+Through+the+Woods.mp3</link>
+			<enclosure type="audio/mpeg" url="https://ia803104.us.archive.org/27/items/ceruleanrealms-c1/12%20A%20Hike%20Through%20the%20Woods.mp3" length="328011419" />
+			<pubDate>December 11 2019 20:00:00 EST</pubDate>
+			<itunes:duration>3:45:46</itunes:duration>
+			<itunes:order>12</itunes:order>
+		</item>
+		<item>
 			<guid>C1E011</guid>
 			<title>A Spider's Burrough</title>
 			<itunes:title>A Spider's Burrough</itunes:title>
